@@ -13,7 +13,7 @@
     <div class="categories"></div>
     <script type="module">
         let booksXML =
-            await fetch("/lists/mat.xml").then(res => res.text()
+            await fetch("./lists/mat.xml").then(res => res.text()
                 .then(str => new window.DOMParser().parseFromString(str, "text/xml")));
 
         Array.from(booksXML.querySelector("categories").children).forEach(cat => {

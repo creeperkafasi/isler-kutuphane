@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="categories"></div>
+    <script type="module">
+        let booksXML =
+            await fetch("/lists/mat.xml").then(res => res.text()
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml")));
+
+        Array.from(booksXML.querySelector("categories").children).forEach(cat => {
+            let div = document.createElement("div");
+            div.innerHTML = cat.querySelector("cName").innerHTML;
+            div.id = "c" + cat.querySelector("cId").innerHTML;
+            div.classList.add("category");
+            let booksdiv = document.createElement("div");
+            booksdiv.classList.add("books");
+            div.appendChild(booksdiv);
+            document.querySelector(".categories").appendChild(div);
+        })
+
+        Array.from(booksXML.querySelector("pics").children).forEach(pic => {
+            let div = document.createElement("div");
+            div.classList.add("book");
+            let bookimg = document.createElement("img");
+            bookimg.src = pic.querySelector("source").innerHTML;
+            let booklink = document.createElement("a");
+            booklink.href = pic.querySelector("fileName").innerHTML;
+            booklink.target = "_blank";
+            booklink.appendChild(bookimg);
+            div.appendChild(booklink);
+            document.querySelector(`#c${pic.querySelector("cId").innerHTML}>.books`).appendChild(div);
+        })
+
+    </script>
+</body>
+
+</html>

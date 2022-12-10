@@ -1,0 +1,19 @@
+:root {
+    font-size: medium;
+}
+
+.category>.books {
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+}
+
+.book {
+    height: 150px;
+    padding: 0.2rem 1rem;
+}
+
+.book img {
+    height: 95%;
+    width: 100px;
+}

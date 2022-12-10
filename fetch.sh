@@ -1,3 +1,4 @@
+mkdir lists
 curl "http://www.isleronline.com/data.php?ver=2&key=L8DLAEDM" --output ./lists/matematik.xml
 curl "http://www.isleronline.com/data.php?ver=2&key=7SLAD2A9" --output ./lists/fizik.xml
 curl "http://www.isleronline.com/data.php?ver=2&key=GHPHH8DH" --output ./lists/kimya.xml

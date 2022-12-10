@@ -1,5 +1,39 @@
 :root {
-    font-size: medium;
+    --ctp-text: var(--ctp-mocha-text);
+    --ctp-base: var(--ctp-mocha-base);
+    --ctp-crust: var(--ctp-mocha-crust);
+    --ctp-surface0: var(--ctp-mocha-surface0);
+    --ctp-surface1: var(--ctp-mocha-surface1);
+    --ctp-mauve: var(--ctp-mocha-mauve);
+    --ctp-peach: var(--ctp-mocha-peach);
+    --ctp-yellow: var(--ctp-mocha-yellow);
+    --ctp-red: var(--ctp-mocha-red);
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --ctp-text: var(--ctp-latte-text);
+        --ctp-base: var(--ctp-latte-base);
+        --ctp-crust: var(--ctp-latte-crust);
+        --ctp-surface0: var(--ctp-latte-surface0);
+        --ctp-surface1: var(--ctp-latte-surface1);
+        --ctp-mauve: var(--ctp-latte-mauve);
+        --ctp-peach: var(--ctp-latte-peach);
+        --ctp-yellow: var(--ctp-latte-yellow);
+        --ctp-red: var(--ctp-latte-red);
+    }
+}
+
+body {
+    background-color: var(--ctp-base);
+    color: var(--ctp-text);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3rem;
+    margin: 0;
+}
+
+.category{
+    padding: 1rem;
 }
 
 .category>.books {

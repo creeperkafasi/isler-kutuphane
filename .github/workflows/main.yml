@@ -13,7 +13,7 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - name: curl books
-        run: ./.github/fetch.sh
+        run: ls
       - name: Push
         uses: s0/git-publish-subdir-action@develop
         env:

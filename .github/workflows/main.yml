@@ -13,7 +13,7 @@ jobs:
     runs-on: "ubuntu-latest"
     steps:
       - name: curl books
-        run: ls
+        run: curl "http://www.isleronline.com/data.php?ver=2&key=L8DLAEDM" --output ./lists/mat.xml
       - name: Push
         uses: s0/git-publish-subdir-action@develop
         env:

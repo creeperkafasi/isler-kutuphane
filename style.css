@@ -27,12 +27,30 @@
 body {
     background-color: var(--ctp-base);
     color: var(--ctp-text);
+    display: flex;
+    flex-direction: column;
     font-family: 'Roboto', sans-serif;
     font-size: 1.3rem;
+    min-height: 100vh;
     margin: 0;
 }
 
-.category{
+a {
+    color: var(--ctp-text);
+    text-decoration: dotted underline;
+    text-decoration-color: var(--ctp-red);
+}
+
+.header {
+    padding: 1rem;
+    padding-top: 0;
+}
+
+.categories {
+    flex: 1;
+}
+
+.category {
     padding: 1rem;
 }
 
@@ -50,4 +68,18 @@ body {
 .book img {
     height: 95%;
     width: 100px;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    background-color: var(--ctp-crust);
+    color: var(--ctp-text);
+    padding: 1rem;
+    font-size: medium;
+    text-align: center;
+}
+
+.footer>p {
+    height: 0.7rem;
 }

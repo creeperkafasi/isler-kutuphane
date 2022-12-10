@@ -7,23 +7,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/@catppuccin/palette@0.1.4/css/catppuccin.css">
-    <title>Document</title>
+    <title>Kaliteli İşler Kütüphane?</title>
 </head>
 
 <body>
-    <label for="libs">Kütüphane Seçiniz:</label>
-    <select name="libraries" id="libs">
-        <option value=""> </option>
-        <option value="matematik">Matematik</option>
-        <option value="fizik">Fizik</option>
-        <option value="kimya">Kimya</option>
-        <option value="biyoloji">Biyoloji</option>
-        <option value="tarih">Tarih</option>
-        <option value="cografya">Coğrafya</option>
-        <option value="felsefe">Felsefe</option>
-        <option value="edebiyat">Edebiyat</option>
-    </select>
+    <div class="header">
+        <h2>Kaliteli İşler Kütüphanesi</h1>
+            <label for="libs">Kütüphane Seçiniz:</label>
+            <select name="libraries" id="libs">
+                <option value=""> </option>
+                <option value="matematik">Matematik</option>
+                <option value="fizik">Fizik</option>
+                <option value="kimya">Kimya</option>
+                <option value="biyoloji">Biyoloji</option>
+                <option value="tarih">Tarih</option>
+                <option value="cografya">Coğrafya</option>
+                <option value="felsefe">Felsefe</option>
+                <option value="edebiyat">Edebiyat</option>
+            </select>
+    </div>
     <div class="categories"></div>
+
+    <div class="footer">
+        <p>Telif durumunda iletişime geçiniz</p>
+        <p><a href="https://deniz.is-a.dev">Deniz</a>'den ❤️lerle</p>
+        <p style="font-size: small;"><a href="https://github.com/creeperkafasi/isler-kutuphane">
+                (Sayfa Kaynağı)</a></p>
+    </div>
     <script type="module">
 
         async function loadLibrary(name) {

@@ -47,6 +47,14 @@ a {
     padding-top: 0;
 }
 
+blockquote {
+    font-size: 1rem;
+    max-width: 40rem;
+    background-color: var(--ctp-crust);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
 .categories {
     flex: 1;
 }

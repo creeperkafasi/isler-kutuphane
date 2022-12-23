@@ -11,6 +11,17 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/@catppuccin/palette@0.1.4/css/catppuccin.css">
     <title>Kaliteli İşler Kütüphane. İhtiyacın olan tek Z-Kitap indirme platformu!</title>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js').then(registration => {
+                    console.log('Service worker registered:', registration);
+                }).catch(error => {
+                    console.log('Service worker registration failed:', error);
+                });
+            });
+        }
+    </script>
 </head>
 
 <body>

@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2022-12-28 14:34:37</uDate>
+<uDate>2023-01-02 09:11:16</uDate>
 <libraryId>16</libraryId>
 </oSettings>
 <categories>
@@ -576,8 +576,9 @@
 <pic><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63182c290e4b5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-ayt-kimya-modul-3.exe</fileName><fileSize>53064790</fileSize><imageSize>124718</imageSize><vers>v_1</vers><fas>6319bb494e053.png</fas></pic>
 <pic><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63182c290fcdd.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-ayt-kimya-modul-4.exe</fileName><fileSize>53514662</fileSize><imageSize>125922</imageSize><vers>v_1</vers><fas>6319bb494e053.png</fas></pic>
 <pic><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63182c2911608.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-ayt-kimya-modul-5.exe</fileName><fileSize>52692977</fileSize><imageSize>127464</imageSize><vers>v_1</vers><fas>6319bb494e053.png</fas></pic>
-<pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/609129bc2f068.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3793.exe</fileName><fileSize>58712904</fileSize><imageSize>93398</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a31dbf6ab54.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-tyt-kimya-deneme.exe</fileName><fileSize>52044928</fileSize><imageSize>23686</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/609129bc05f24.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3792.exe</fileName><fileSize>58585120</fileSize><imageSize>96499</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/609129bc2f068.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3793.exe</fileName><fileSize>58712904</fileSize><imageSize>93398</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>769</cId><source>http://yeni.isleronline.com/uploads/zkitap/63776400147ec.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-tyt-kimya.exe</fileName><fileSize>53961192</fileSize><imageSize>73875</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>769</cId><source>http://yeni.isleronline.com/uploads/zkitap/637768bddef71.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-kimya.exe</fileName><fileSize>54545496</fileSize><imageSize>73146</imageSize><vers>v_1</vers></pic>
 </pics>

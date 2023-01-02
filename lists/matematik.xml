@@ -5,10 +5,11 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2022-12-28 14:34:37</uDate>
+<uDate>2023-01-02 10:57:05</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
+<aCategory><cId>775</cId><cName>ACİL YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>679</cId><cName>ACİL YAYINLARI 2021-2022</cName></aCategory>
 <aCategory><cId>75</cId><cName>ACİL YAYINLARI</cName></aCategory>
 <aCategory><cId>721</cId><cName>DENEME DEPOSU </cName></aCategory>
@@ -24,7 +25,7 @@
 <aCategory><cId>684</cId><cName>ÇAP YAYINLARI 2021-2022</cName></aCategory>
 <aCategory><cId>615</cId><cName>ÇAP YAYINLARI 2020-2021</cName></aCategory>
 <aCategory><cId>665</cId><cName>YARIÇAP YAYINLARI </cName></aCategory>
-<aCategory><cId>712</cId><cName>VAF YAYILARI 2022-2023</cName></aCategory>
+<aCategory><cId>712</cId><cName>VAF YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>752</cId><cName>FULL MATEMATİK 2022-2023</cName></aCategory>
 <aCategory><cId>429</cId><cName>Full Matematik</cName></aCategory>
 <aCategory><cId>393</cId><cName>Başvuru Yayınları</cName></aCategory>
@@ -673,6 +674,14 @@
 <pic><fas>false</fas><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/6135497a023c6.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4063.exe</fileName><fileSize>86710784</fileSize><imageSize>21379</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/6135497902700.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4061.exe</fileName><fileSize>77761448</fileSize><imageSize>24856</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/6319e0da8db6b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-tyt-ayt-geometri-akilli-sb.exe</fileName><fileSize>87171256</fileSize><imageSize>20357</imageSize><vers>v_1</vers></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/set/63b28e18a7d37.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>68599</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a982558117c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-9-sinif-matematik-vaf-1.exe</fileName><fileSize>53524824</fileSize><imageSize>3836</imageSize><vers>v_1</vers><fas>63b28e18a7d37.png</fas></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a98255c6f24.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-9-sinif-matematik-vaf-2.exe</fileName><fileSize>52351616</fileSize><imageSize>4119</imageSize><vers>v_1</vers><fas>63b28e18a7d37.png</fas></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a982562b825.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-9-sinif-matematik-vaf-3.exe</fileName><fileSize>52635064</fileSize><imageSize>4049</imageSize><vers>v_1</vers><fas>63b28e18a7d37.png</fas></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a98256a7e62.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-9-sinif-matematik-vaf-4.exe</fileName><fileSize>51592864</fileSize><imageSize>3940</imageSize><vers>v_1</vers><fas>63b28e18a7d37.png</fas></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a98256b7370.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-9-sinif-matematik-vaf-5.exe</fileName><fileSize>55894104</fileSize><imageSize>3562</imageSize><vers>v_1</vers><fas>63b28e18a7d37.png</fas></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a982571d340.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-9-sinif-matematik-vaf-6.exe</fileName><fileSize>57470352</fileSize><imageSize>3566</imageSize><vers>v_1</vers><fas>63b28e18a7d37.png</fas></pic>
+<pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a98257906a1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-9-sinif-matematik-vaf-7.exe</fileName><fileSize>51050728</fileSize><imageSize>3388</imageSize><vers>v_1</vers><fas>63b28e18a7d37.png</fas></pic>
 <pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/set/62fdf5aa0dc37.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>70197</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/62fb8b673b5d0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-10-sinif-matematik-vaf-1.exe</fileName><fileSize>54490152</fileSize><imageSize>81207</imageSize><vers>v_1</vers><fas>62fdf5aa0dc37.png</fas></pic>
 <pic><cId>712</cId><source>http://yeni.isleronline.com/uploads/zkitap/62fb8b6758f47.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/vaf-2022-10-sinif-matematik-vaf-2.exe</fileName><fileSize>55613824</fileSize><imageSize>70663</imageSize><vers>v_1</vers><fas>62fdf5aa0dc37.png</fas></pic>
@@ -886,5 +895,6 @@
 <pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/623dcaea31f3b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-limit-turev-integral.exe</fileName><fileSize>18341272</fileSize><imageSize>108227</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/6230741d54d9b.jpg</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4129.exe</fileName><fileSize>23835384</fileSize><imageSize>104716</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/6363c167c032a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-ayt-matematik.exe</fileName><fileSize>58294352</fileSize><imageSize>35489</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a31d9b7a01a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-tyt-ilac-deneme.exe</fileName><fileSize>56297248</fileSize><imageSize>27424</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

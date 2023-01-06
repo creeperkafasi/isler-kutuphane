@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2022-12-28 14:34:37</uDate>
+<uDate>2023-01-06 12:09:54</uDate>
 <libraryId>2</libraryId>
 </oSettings>
 <categories>
@@ -576,6 +576,9 @@
 <pic><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/63761540ac155.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-kuvvet-tork-denge.exe</fileName><fileSize>69399440</fileSize><imageSize>80075</imageSize><vers>v_1</vers><fas>6374888c50b07.png</fas></pic>
 <pic><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/6376165784507.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-elektrik-manyetizma.exe</fileName><fileSize>68536696</fileSize><imageSize>76635</imageSize><vers>v_1</vers><fas>6374888c50b07.png</fas></pic>
 <pic><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/63761711ce332.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-dalga-mekanigi.exe</fileName><fileSize>69728640</fileSize><imageSize>78245</imageSize><vers>v_1</vers><fas>6374888c50b07.png</fas></pic>
+<pic><fas>false</fas><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7d6e43876a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-5-deneme.exe</fileName><fileSize>64063896</fileSize><imageSize>40212</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7df1906572.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-fen-bilimleri-20-deneme.exe</fileName><fileSize>61826064</fileSize><imageSize>47668</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7e49fccfc0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-fizik-36-deneme.exe</fileName><fileSize>60638960</fileSize><imageSize>41179</imageSize><vers>v_1</vers></pic>
 <pic><cId>731</cId><source>http://yeni.isleronline.com/uploads/set/6232d83965220.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>60555</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/62318b58874ad.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-deneme-1.exe</fileName><fileSize>63618664</fileSize><imageSize>19525</imageSize><vers>v_1</vers><fas>6232d83965220.png</fas></pic>
 <pic><cId>731</cId><source>http://yeni.isleronline.com/uploads/zkitap/62318b5891cd8.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-deneme-2.exe</fileName><fileSize>63526472</fileSize><imageSize>19552</imageSize><vers>v_1</vers><fas>6232d83965220.png</fas></pic>
@@ -590,6 +593,7 @@
 <pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/62d56a87d5c46.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-11-sinif-fizik-sb.exe</fileName><fileSize>72534288</fileSize><imageSize>9728</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/62be94be7ad1c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-fizik-sb.exe</fileName><fileSize>82264048</fileSize><imageSize>22171</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/62dfe3f82dad1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-fizik-sb.exe</fileName><fileSize>80334368</fileSize><imageSize>15600</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b4121279c92.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-fizik-40-deneme.exe</fileName><fileSize>58146816</fileSize><imageSize>17131</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fc97aaaf16.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-fen-bilimleri-25-deneme-sor.exe</fileName><fileSize>56356936</fileSize><imageSize>17646</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>762</cId><source>http://yeni.isleronline.com/uploads/zkitap/6363c1683c269.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-tyt-fizik.exe</fileName><fileSize>61452472</fileSize><imageSize>35370</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>762</cId><source>http://yeni.isleronline.com/uploads/zkitap/635678f4b38a4.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-ayt-fizik.exe</fileName><fileSize>61760856</fileSize><imageSize>79137</imageSize><vers>v_1</vers></pic>

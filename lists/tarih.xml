@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2022-12-28 14:34:37</uDate>
+<uDate>2023-01-06 12:09:54</uDate>
 <libraryId>18</libraryId>
 </oSettings>
 <categories>
@@ -327,6 +327,7 @@
 <pic><cId>740</cId><source>http://yeni.isleronline.com/uploads/zkitap/62d56d38aa50a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-11-sinif-tarih-fasikul-1.exe</fileName><fileSize>64225400</fileSize><imageSize>17284</imageSize><vers>v_1</vers><fas>62d8ecf516fc8.png</fas></pic>
 <pic><cId>740</cId><source>http://yeni.isleronline.com/uploads/zkitap/62d56d392907d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-11-sinif-tarih-fasikul-2.exe</fileName><fileSize>64610584</fileSize><imageSize>17405</imageSize><vers>v_1</vers><fas>62d8ecf516fc8.png</fas></pic>
 <pic><cId>740</cId><source>http://yeni.isleronline.com/uploads/zkitap/62d56d399284b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-11-sinif-tarih-fasikul-3.exe</fileName><fileSize>56368552</fileSize><imageSize>16701</imageSize><vers>v_1</vers><fas>62d8ecf516fc8.png</fas></pic>
+<pic><fas>false</fas><cId>740</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7d6e43876a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-5-deneme.exe</fileName><fileSize>64063896</fileSize><imageSize>40212</imageSize><vers>v_1</vers></pic>
 <pic><cId>740</cId><source>http://yeni.isleronline.com/uploads/set/6232d83965220.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>60555</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>740</cId><source>http://yeni.isleronline.com/uploads/zkitap/62318b58874ad.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-deneme-1.exe</fileName><fileSize>63618664</fileSize><imageSize>19525</imageSize><vers>v_1</vers><fas>6232d83965220.png</fas></pic>
 <pic><cId>740</cId><source>http://yeni.isleronline.com/uploads/zkitap/62318b5891cd8.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-deneme-2.exe</fileName><fileSize>63526472</fileSize><imageSize>19552</imageSize><vers>v_1</vers><fas>6232d83965220.png</fas></pic>

@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-01-20 11:56:35</uDate>
+<uDate>2023-01-23 08:51:53</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -567,6 +567,7 @@
 <pic><cId>742</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fccb685a6d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-turkce-deneme-18.exe</fileName><fileSize>49715720</fileSize><imageSize>14000</imageSize><vers>v_1</vers><fas>6374785de6299.png</fas></pic>
 <pic><cId>742</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fccb6e2e49.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-turkce-deneme-19.exe</fileName><fileSize>49731560</fileSize><imageSize>14119</imageSize><vers>v_1</vers><fas>6374785de6299.png</fas></pic>
 <pic><cId>742</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fccb754dfa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-turkce-deneme-20.exe</fileName><fileSize>49731584</fileSize><imageSize>13885</imageSize><vers>v_1</vers><fas>6374785de6299.png</fas></pic>
+<pic><fas>false</fas><cId>742</cId><source>http://yeni.isleronline.com/uploads/zkitap/63c7ad19a9e8b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-edebiyat-25-deneme.exe</fileName><fileSize>53923056</fileSize><imageSize>16188</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>753</cId><source>http://yeni.isleronline.com/uploads/zkitap/62ecba6225872.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/pes-2022-kurgulu-paragraf-sb.exe</fileName><fileSize>69416760</fileSize><imageSize>39841</imageSize><vers>v_1</vers></pic>
 <pic><cId>753</cId><source>http://yeni.isleronline.com/uploads/set/62f0c225a3f5d.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>104764</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>753</cId><source>http://yeni.isleronline.com/uploads/zkitap/62e93154e355e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/pes-2022-paragraf-kamp-1.exe</fileName><fileSize>52757632</fileSize><imageSize>92432</imageSize><vers>v_1</vers><fas>62f0c225a3f5d.png</fas></pic>

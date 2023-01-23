@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-01-20 11:56:35</uDate>
+<uDate>2023-01-23 08:56:13</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
@@ -255,6 +255,7 @@
 <pic><cId>748</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd57834be47.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-tyt-kamp-tam-tekrar-9.exe</fileName><fileSize>50811472</fileSize><imageSize>73309</imageSize><vers>v_1</vers><fas>63c7853ce56f9.png</fas></pic>
 <pic><cId>748</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd5783b472c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-tyt-kamp-tam-tekrar-10.exe</fileName><fileSize>50711200</fileSize><imageSize>73831</imageSize><vers>v_1</vers><fas>63c7853ce56f9.png</fas></pic>
 <pic><fas>false</fas><cId>748</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fc97b4e83e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-sosyal-bilimler-30-deneme-sor.exe</fileName><fileSize>54383752</fileSize><imageSize>17794</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>748</cId><source>http://yeni.isleronline.com/uploads/zkitap/63c7ad1b4f856.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-sosyal-bilimler-1-30-deneme.exe</fileName><fileSize>57514952</fileSize><imageSize>15413</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>761</cId><source>http://yeni.isleronline.com/uploads/zkitap/63314a82a596b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-10-sinif-felsefe-sb.exe</fileName><fileSize>54601480</fileSize><imageSize>8710</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>761</cId><source>http://yeni.isleronline.com/uploads/zkitap/6335b2bd6de8c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-11-sinif-felsefe-sb.exe</fileName><fileSize>54719088</fileSize><imageSize>9724</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>761</cId><source>http://yeni.isleronline.com/uploads/zkitap/6335b382e7faa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-felsefe-sb.exe</fileName><fileSize>68892440</fileSize><imageSize>10959</imageSize><vers>v_1</vers></pic>

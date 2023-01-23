@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-01-20 11:56:35</uDate>
+<uDate>2023-01-23 08:52:27</uDate>
 <libraryId>2</libraryId>
 </oSettings>
 <categories>
@@ -616,6 +616,7 @@
 <pic><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd57834be47.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-tyt-kamp-tam-tekrar-9.exe</fileName><fileSize>50811472</fileSize><imageSize>73309</imageSize><vers>v_1</vers><fas>63c7853ce56f9.png</fas></pic>
 <pic><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd5783b472c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-tyt-kamp-tam-tekrar-10.exe</fileName><fileSize>50711200</fileSize><imageSize>73831</imageSize><vers>v_1</vers><fas>63c7853ce56f9.png</fas></pic>
 <pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b4121279c92.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-fizik-40-deneme.exe</fileName><fileSize>58146816</fileSize><imageSize>17131</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/63c7ad1a370c7.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-fizik-25-deneme.exe</fileName><fileSize>58790648</fileSize><imageSize>14968</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>743</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fc97aaaf16.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-fen-bilimleri-25-deneme-sor.exe</fileName><fileSize>56356936</fileSize><imageSize>17646</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>762</cId><source>http://yeni.isleronline.com/uploads/zkitap/6363c1683c269.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-tyt-fizik.exe</fileName><fileSize>61452472</fileSize><imageSize>35370</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>762</cId><source>http://yeni.isleronline.com/uploads/zkitap/635678f4b38a4.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-ayt-fizik.exe</fileName><fileSize>61760856</fileSize><imageSize>79137</imageSize><vers>v_1</vers></pic>

@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-01-25 08:36:41</uDate>
+<uDate>2023-01-26 11:24:43</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -946,5 +946,6 @@
 <pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/6363c167c032a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-ayt-matematik.exe</fileName><fileSize>58294352</fileSize><imageSize>35489</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a31d9b7a01a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-tyt-ilac-deneme.exe</fileName><fileSize>56297248</fileSize><imageSize>27424</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd55f50e066.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-kati-cisimler.exe</fileName><fileSize>57942592</fileSize><imageSize>9517</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63cfe455539e7.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-analitik-geometri.exe</fileName><fileSize>57657896</fileSize><imageSize>10086</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

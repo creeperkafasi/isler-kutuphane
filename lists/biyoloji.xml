@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-01-24 11:30:20</uDate>
+<uDate>2023-01-26 11:24:43</uDate>
 <libraryId>17</libraryId>
 </oSettings>
 <categories>
@@ -424,9 +424,10 @@
 <pic><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/62b1832af216c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-genden-proteine.exe</fileName><fileSize>61521440</fileSize><imageSize>32603</imageSize><vers>v_1</vers><fas>632d74c3b3f7c.png</fas></pic>
 <pic><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/62873839645bc.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-bitki-biyolojisi-canlilar-cevre.exe</fileName><fileSize>72566307</fileSize><imageSize>64054</imageSize><vers>v_1</vers><fas>632d74c3b3f7c.png</fas></pic>
 <pic><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/63457dd78287e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-yasam-bilimi.exe</fileName><fileSize>66933616</fileSize><imageSize>60353</imageSize><vers>v_1</vers><fas>632d74c3b3f7c.png</fas></pic>
+<pic><fas>false</fas><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7e3bd86a18.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-biyoloji-36-deneme.exe</fileName><fileSize>61129920</fileSize><imageSize>42275</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/63d234f75ca10.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-ayt-biyoloji-20-deneme.exe</fileName><fileSize>60591312</fileSize><imageSize>40827</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7d6e43876a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-5-deneme.exe</fileName><fileSize>64063896</fileSize><imageSize>40212</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7df1906572.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-fen-bilimleri-20-deneme.exe</fileName><fileSize>61826064</fileSize><imageSize>47668</imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>737</cId><source>http://yeni.isleronline.com/uploads/zkitap/63b7e3bd86a18.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-biyoloji-36-deneme.exe</fileName><fileSize>61129920</fileSize><imageSize>42275</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>741</cId><source>http://yeni.isleronline.com/uploads/zkitap/62be94be1f467.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-9-sinif-biyoloji-sb.exe</fileName><fileSize>62710240</fileSize><imageSize>14897</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>741</cId><source>http://yeni.isleronline.com/uploads/zkitap/62de9aa11a891.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-10-sinif-biyoloji-sb.exe</fileName><fileSize>63167736</fileSize><imageSize>10518</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>741</cId><source>http://yeni.isleronline.com/uploads/zkitap/62e3e1b5bb514.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-11-sinif-biyoloji-sb.exe</fileName><fileSize>64444600</fileSize><imageSize>11109</imageSize><vers>v_1</vers></pic>

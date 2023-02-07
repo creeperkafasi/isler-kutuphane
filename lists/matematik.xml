@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-02-06 10:02:32</uDate>
+<uDate>2023-02-06 15:27:43</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -928,6 +928,7 @@
 <pic><cId>746</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fcaa7319bf.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-matematik-deneme-13.exe</fileName><fileSize>49890800</fileSize><imageSize>8810</imageSize><vers>v_1</vers><fas>6374777124b22.png</fas></pic>
 <pic><cId>746</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fcaa792846.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-matematik-deneme-14.exe</fileName><fileSize>49980192</fileSize><imageSize>8668</imageSize><vers>v_1</vers><fas>6374777124b22.png</fas></pic>
 <pic><cId>746</cId><source>http://yeni.isleronline.com/uploads/zkitap/636fcaa81e8cf.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-matematik-deneme-15.exe</fileName><fileSize>49893936</fileSize><imageSize>8757</imageSize><vers>v_1</vers><fas>6374777124b22.png</fas></pic>
+<pic><fas>false</fas><cId>746</cId><source>http://yeni.isleronline.com/uploads/zkitap/63d22e0b66721.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-matematik-15-deneme.exe</fileName><fileSize>60765536</fileSize><imageSize>16203</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>746</cId><source>http://yeni.isleronline.com/uploads/zkitap/63c7ad1bcd0b6.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-tyt-ayt-geometri-brans-deneme.exe</fileName><fileSize>59186880</fileSize><imageSize>19644</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>752</cId><source>http://yeni.isleronline.com/uploads/zkitap/62fdf3e9ac2ac.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/full-2022-9-sinif-matematik-sb.exe</fileName><fileSize>29300912</fileSize><imageSize>67672</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>752</cId><source>http://yeni.isleronline.com/uploads/zkitap/6336853329a90.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/full-2022-10-sinif-matematik-sb.exe</fileName><fileSize>60709976</fileSize><imageSize>30594</imageSize><vers>v_1</vers></pic>

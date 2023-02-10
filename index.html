@@ -81,7 +81,7 @@
         async function loadLibrary(name) {
             let booksXML =
                 await fetch(`./lists/${name}.xml`).then(res => res.text()
-                    .then(str => new window.DOMParser().parseFromString(str, "text/xml")));
+                    .then(str => new window.DOMParser().parseFromString(str.trim(), "text/xml")));
 
             document.querySelector(".categories").innerHTML = "";
             Array.from(booksXML.querySelector("categories").children).forEach(cat => {

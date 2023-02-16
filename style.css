@@ -92,3 +92,22 @@ blockquote {
 .footer>p {
     height: 0.7rem;
 }
+
+select {
+    background-color: var(--ctp-surface0);
+    color: var(--ctp-text);
+    border: 1px solid var(--ctp-text);
+    border-radius: 0.1rem;
+    padding: 0.2rem;
+
+}
+
+#chromiumNotification{
+    padding: 1rem;
+    background-color: var(--ctp-crust);
+    color: var(--ctp-red);
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    max-width: 40rem;
+    margin: 1rem 1rem;
+}

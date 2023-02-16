@@ -38,19 +38,22 @@
     
 <body>
     <div class="header">
-        <h2>Kaliteli İşler Kütüphanesi</h1>
-            <label for="libs">Kütüphane Seçiniz:</label>
-            <select name="libraries" id="libs">
-                <option value=""> </option>
-                <option value="matematik">Matematik</option>
-                <option value="fizik">Fizik</option>
-                <option value="kimya">Kimya</option>
-                <option value="biyoloji">Biyoloji</option>
-                <option value="tarih">Tarih</option>
-                <option value="cografya">Coğrafya</option>
-                <option value="felsefe">Felsefe</option>
-                <option value="edebiyat">Edebiyat</option>
-            </select>
+        <h2>Kaliteli İşler Kütüphanesi</h2>
+        <p id="chromiumNotification"><b>CHROME/OPERA/BRAVE KULLANICILARI!</b> Eğer sitemizde indirme sorunu
+            yaşıyorsanız, lütfen indirmek istediğiniz kitabı basılı tutup / sağ tıklayıp "Bağlantıyı farklı kaydet"
+            seçeneğine tıklayın.</p>
+        <label for="libs">Kütüphane Seçiniz:</label>
+        <select name="libraries" id="libs">
+            <option value=""> </option>
+            <option value="matematik">Matematik</option>
+            <option value="fizik">Fizik</option>
+            <option value="kimya">Kimya</option>
+            <option value="biyoloji">Biyoloji</option>
+            <option value="tarih">Tarih</option>
+            <option value="cografya">Coğrafya</option>
+            <option value="felsefe">Felsefe</option>
+            <option value="edebiyat">Edebiyat</option>
+        </select>
     </div>
 
     <div class="categories">
@@ -124,6 +127,10 @@
         document.getElementById("libs").addEventListener("input", e => {
             loadLibrary(e.target.value);
         })
+
+        if (!window.chrome) {
+            document.getElementById("chromiumNotification").style.display = "none";
+        }
 
     </script>
 </body>

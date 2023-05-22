@@ -1,4 +1,5 @@
 
+
 <?xml version="1.0" encoding="UTF-8"?><!-- GHPHH8DH -->
 <data>
 <oSettings>
@@ -6,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-05-18 09:09:02</uDate>
+<uDate>2023-05-22 09:56:46</uDate>
 <libraryId>16</libraryId>
 </oSettings>
 <categories>
@@ -616,6 +617,7 @@
 <pic><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63182c290fcdd.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-ayt-kimya-modul-4.exe</fileName><fileSize>53514662</fileSize><imageSize>125922</imageSize><vers>v_1</vers><fas>6319bb494e053.png</fas></pic>
 <pic><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63182c2911608.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-ayt-kimya-modul-5.exe</fileName><fileSize>52692977</fileSize><imageSize>127464</imageSize><vers>v_1</vers><fas>6319bb494e053.png</fas></pic>
 <pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a31dbf6ab54.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-tyt-kimya-deneme.exe</fileName><fileSize>52044928</fileSize><imageSize>23686</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/645deeddbbc0d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-ayt-kimya-brans-denemeleri.exe</fileName><fileSize>56248480</fileSize><imageSize>26063</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/63d39dba2f8d2.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2022-ayt-brans-denemeleri.exe</fileName><fileSize>51685648</fileSize><imageSize>24087</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/609129bc05f24.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3792.exe</fileName><fileSize>58585120</fileSize><imageSize>96499</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>745</cId><source>http://yeni.isleronline.com/uploads/zkitap/609129bc2f068.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3793.exe</fileName><fileSize>58712904</fileSize><imageSize>93398</imageSize><vers>v_1</vers></pic>

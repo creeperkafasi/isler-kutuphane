@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-04 10:05:55</uDate>
+<uDate>2023-07-05 08:44:54</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -19,6 +19,7 @@
 <aCategory><cId>467</cId><cName>AKTİF ÖĞRENME YAYINLARI</cName></aCategory>
 <aCategory><cId>764</cId><cName>ALTYAPI YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>392</cId><cName>APOTEMİ YAYINLARI </cName></aCategory>
+<aCategory><cId>778</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
 <aCategory><cId>746</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>674</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
 <aCategory><cId>637</cId><cName>BİLGİ SARMAL 2020-2021</cName></aCategory>
@@ -979,5 +980,8 @@
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a31d9b7a01a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-tyt-ilac-deneme.exe</fileName><fileSize>56297248</fileSize><imageSize>27424</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd55f50e066.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-kati-cisimler.exe</fileName><fileSize>57942592</fileSize><imageSize>9517</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63cfe455539e7.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-analitik-geometri.exe</fileName><fileSize>57657896</fileSize><imageSize>10086</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a43fd915a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-matematik-sb.exe</fileName><fileSize>102419056</fileSize><imageSize>12874</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a4411f31d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-matematik-sb.exe</fileName><fileSize>98288944</fileSize><imageSize>13643</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a4415d357.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-matematik-sb.exe</fileName><fileSize>113065032</fileSize><imageSize>17432</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

@@ -7,11 +7,13 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-04 10:05:55</uDate>
+<uDate>2023-07-05 08:42:25</uDate>
 <libraryId>19</libraryId>
 </oSettings>
 <categories>
 <aCategory><cId>766</cId><cName>ALTYAPI YAYINLARI 2022-2023</cName></aCategory>
+<aCategory><cId>781</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
+<aCategory><cId>777</cId><cName>BİLGİ SARMAL  2023-2024</cName></aCategory>
 <aCategory><cId>749</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>681</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
 <aCategory><cId>643</cId><cName>BİLGİ SARMAL 2020-2021</cName></aCategory>
@@ -387,5 +389,7 @@
 <pic><fas>false</fas><cId>749</cId><source>http://yeni.isleronline.com/uploads/zkitap/6423e0184aacd.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-sosyal-bilimler-1-30-denemeler.exe</fileName><fileSize>57885392</fileSize><imageSize>77795</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>766</cId><source>http://yeni.isleronline.com/uploads/zkitap/637764e450f32.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-tyt-cografya.exe</fileName><fileSize>57760952</fileSize><imageSize>70526</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>766</cId><source>http://yeni.isleronline.com/uploads/zkitap/637765e0025c5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-cografya.exe</fileName><fileSize>55637824</fileSize><imageSize>71292</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>777</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a43f90bc5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-cografya-sb.exe</fileName><fileSize>79902424</fileSize><imageSize>11142</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>781</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a4409c84b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-cografya-sb.exe</fileName><fileSize>83423976</fileSize><imageSize>11322</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

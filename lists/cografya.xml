@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-11 10:27:50</uDate>
+<uDate>2023-07-13 09:21:38</uDate>
 <libraryId>19</libraryId>
 </oSettings>
 <categories>
@@ -391,5 +391,6 @@
 <pic><fas>false</fas><cId>766</cId><source>http://yeni.isleronline.com/uploads/zkitap/637765e0025c5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-cografya.exe</fileName><fileSize>55637824</fileSize><imageSize>71292</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>777</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a43f90bc5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-cografya-sb.exe</fileName><fileSize>79902424</fileSize><imageSize>11142</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>781</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a4409c84b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-cografya-sb.exe</fileName><fileSize>83423976</fileSize><imageSize>11322</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>781</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad442525ffa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-cografya-sb.exe</fileName><fileSize>95799928</fileSize><imageSize>17100</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

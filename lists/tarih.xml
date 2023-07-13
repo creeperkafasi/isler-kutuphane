@@ -7,11 +7,12 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-11 10:27:50</uDate>
+<uDate>2023-07-13 09:23:21</uDate>
 <libraryId>18</libraryId>
 </oSettings>
 <categories>
 <aCategory><cId>770</cId><cName>ALTYAPI YAYINLARI 2022-2023</cName></aCategory>
+<aCategory><cId>783</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
 <aCategory><cId>750</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>678</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
 <aCategory><cId>641</cId><cName>BİLGİ SARMAL 2020-2021</cName></aCategory>
@@ -399,5 +400,6 @@
 <pic><fas>false</fas><cId>750</cId><source>http://yeni.isleronline.com/uploads/zkitap/6423e0184aacd.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-sosyal-bilimler-1-30-denemeler.exe</fileName><fileSize>57885392</fileSize><imageSize>77795</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>770</cId><source>http://yeni.isleronline.com/uploads/zkitap/6377651ceb017.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-tyt-tarih.exe</fileName><fileSize>58631312</fileSize><imageSize>76827</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>770</cId><source>http://yeni.isleronline.com/uploads/zkitap/6377693cbd3ec.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-tarih.exe</fileName><fileSize>55958200</fileSize><imageSize>77467</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>783</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad4425d4cd0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tarih-sb.exe</fileName><fileSize>108209432</fileSize><imageSize>15660</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

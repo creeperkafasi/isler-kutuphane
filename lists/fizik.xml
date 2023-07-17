@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-14 13:50:12</uDate>
+<uDate>2023-07-17 08:56:40</uDate>
 <libraryId>2</libraryId>
 </oSettings>
 <categories>
@@ -635,6 +635,8 @@
 <pic><fas>false</fas><cId>767</cId><source>http://yeni.isleronline.com/uploads/zkitap/637763bbb91f1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-tyt-fizik.exe</fileName><fileSize>53784280</fileSize><imageSize>77915</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>767</cId><source>http://yeni.isleronline.com/uploads/zkitap/6377687e43ec3.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-fizik.exe</fileName><fileSize>54859576</fileSize><imageSize>74732</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>774</cId><source>http://yeni.isleronline.com/uploads/zkitap/639099ff5e0f6.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2022-modern-fizik.exe</fileName><fileSize>81235560</fileSize><imageSize>123972</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>782</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1dbb5a9e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-10-sinif-fizik-sb.exe</fileName><fileSize>96230008</fileSize><imageSize>11054</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>782</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1dbef583.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-fizik-sb.exe</fileName><fileSize>104776640</fileSize><imageSize>12045</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>782</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad442560e4c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-fizik-sb.exe</fileName><fileSize>105937888</fileSize><imageSize>15326</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-14 13:50:12</uDate>
+<uDate>2023-07-17 08:55:22</uDate>
 <libraryId>17</libraryId>
 </oSettings>
 <categories>
@@ -494,6 +494,7 @@
 <pic><fas>false</fas><cId>757</cId><source>http://yeni.isleronline.com/uploads/zkitap/64070075f04ee.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/biyotik-2022-ayt-biyoloji-denemeleri.exe</fileName><fileSize>54130368</fileSize><imageSize>21378</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>765</cId><source>http://yeni.isleronline.com/uploads/zkitap/6377631a35fac.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-tyt-biyoloji.exe</fileName><fileSize>54333608</fileSize><imageSize>77304</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>765</cId><source>http://yeni.isleronline.com/uploads/zkitap/637768346ff5c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-biyoloji.exe</fileName><fileSize>55648144</fileSize><imageSize>76708</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>780</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1db1a78c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-biyoloji-sb.exe</fileName><fileSize>75344816</fileSize><imageSize>10674</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>780</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a4406dd53.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-biyoloji-sb.exe</fileName><fileSize>78737144</fileSize><imageSize>11239</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

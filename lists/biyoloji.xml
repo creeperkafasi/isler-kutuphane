@@ -7,12 +7,13 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-19 11:47:03</uDate>
+<uDate>2023-07-19 14:38:08</uDate>
 <libraryId>17</libraryId>
 </oSettings>
 <categories>
 <aCategory><cId>469</cId><cName>Aktif Öğrenme Yayınları</cName></aCategory>
 <aCategory><cId>765</cId><cName>ALT YAPI YAYINLARI 2022-2023</cName></aCategory>
+<aCategory><cId>786</cId><cName>APOTEMİ YAYINLARI 2023-2024</cName></aCategory>
 <aCategory><cId>390</cId><cName>Apotemi</cName></aCategory>
 <aCategory><cId>436</cId><cName>Başvuru Yayınları</cName></aCategory>
 <aCategory><cId>780</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
@@ -496,5 +497,7 @@
 <pic><fas>false</fas><cId>765</cId><source>http://yeni.isleronline.com/uploads/zkitap/637768346ff5c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-biyoloji.exe</fileName><fileSize>55648144</fileSize><imageSize>76708</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>780</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1db1a78c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-biyoloji-sb.exe</fileName><fileSize>75344816</fileSize><imageSize>10674</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>780</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a4406dd53.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-biyoloji-sb.exe</fileName><fileSize>78737144</fileSize><imageSize>11239</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>786</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b6a2ccc3ec1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2023-tyt-biyoloji-sb.exe</fileName><fileSize>65031208</fileSize><imageSize>7568</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>786</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b6a2ccc3d1c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2023-sistemler.exe</fileName><fileSize>89923016</fileSize><imageSize>2813</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-19 11:47:03</uDate>
+<uDate>2023-07-19 14:39:24</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -23,9 +23,10 @@
 <aCategory><cId>688</cId><cName>ÇAP 2021-2022</cName></aCategory>
 <aCategory><cId>616</cId><cName>ÇAP 2020-2021</cName></aCategory>
 <aCategory><cId>440</cId><cName>Çap 2019-2020</cName></aCategory>
-<aCategory><cId>705</cId><cName>VAF YAYINLARI</cName></aCategory>
 <aCategory><cId>722</cId><cName>DENEME DEPOSU 2022</cName></aCategory>
+<aCategory><cId>788</cId><cName>SÜRE YAYINLARI 2023-2024</cName></aCategory>
 <aCategory><cId>753</cId><cName>PES YAYINLARI 2022-2023</cName></aCategory>
+<aCategory><cId>705</cId><cName>VAF YAYINLARI</cName></aCategory>
 <aCategory><cId>656</cId><cName>PES YAYINLARI</cName></aCategory>
 <aCategory><cId>588</cId><cName>ENS YAYINLARI 2020</cName></aCategory>
 <aCategory><cId>661</cId><cName>HIZ VE RENK 2020-2021</cName></aCategory>
@@ -617,5 +618,6 @@
 <pic><fas>false</fas><cId>763</cId><source>http://yeni.isleronline.com/uploads/zkitap/6377699591b58.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-eser-sanatci-tur.exe</fileName><fileSize>55459512</fileSize><imageSize>70849</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>763</cId><source>http://yeni.isleronline.com/uploads/zkitap/63776a891f4ff.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-roman-ozetleri.exe</fileName><fileSize>55169632</fileSize><imageSize>73337</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad44261d311.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-turkce-sb.exe</fileName><fileSize>86688040</fileSize><imageSize>16282</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>788</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b7cb1dd50da.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/sure-2023-tyt-turkce-sb.exe</fileName><fileSize>84498832</fileSize><imageSize>66354</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

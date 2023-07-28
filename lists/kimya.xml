@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-26 13:32:56</uDate>
+<uDate>2023-07-27 16:32:49</uDate>
 <libraryId>16</libraryId>
 </oSettings>
 <categories>
@@ -628,5 +628,6 @@
 <pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a44024da0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-10-sinif-kimya-sb.exe</fileName><fileSize>81122824</fileSize><imageSize>10350</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a440d2640.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-kimya-sb.exe</fileName><fileSize>80976736</fileSize><imageSize>10791</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad44259def2.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-kimya-sb.exe</fileName><fileSize>97137288</fileSize><imageSize>16008</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda128dec9.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-kimya-sb.exe</fileName><fileSize>116990312</fileSize><imageSize>15611</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

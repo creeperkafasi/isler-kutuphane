@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-26 13:32:56</uDate>
+<uDate>2023-07-27 16:33:42</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -617,7 +617,11 @@
 <pic><fas>false</fas><cId>763</cId><source>http://yeni.isleronline.com/uploads/zkitap/637769e69b513.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-turk-edebiyati-sanatcilari.exe</fileName><fileSize>56059368</fileSize><imageSize>71536</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>763</cId><source>http://yeni.isleronline.com/uploads/zkitap/6377699591b58.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-eser-sanatci-tur.exe</fileName><fileSize>55459512</fileSize><imageSize>70849</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>763</cId><source>http://yeni.isleronline.com/uploads/zkitap/63776a891f4ff.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-roman-ozetleri.exe</fileName><fileSize>55169632</fileSize><imageSize>73337</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda11228f1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-edebiyat-sb.exe</fileName><fileSize>81526256</fileSize><imageSize>10950</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda11a67fc.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-10-sinif-edebiyat-sb.exe</fileName><fileSize>82542368</fileSize><imageSize>10647</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda12236df.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-edebiyat-sb.exe</fileName><fileSize>85259200</fileSize><imageSize>11556</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad44261d311.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-turkce-sb.exe</fileName><fileSize>86688040</fileSize><imageSize>16282</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda13292fe.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-ayt-dil-bilgisi-sb.exe</fileName><fileSize>90005168</fileSize><imageSize>16706</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>788</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b7cb1dd50da.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/sure-2023-tyt-turkce-sb.exe</fileName><fileSize>84498832</fileSize><imageSize>66354</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-26 13:32:56</uDate>
+<uDate>2023-07-27 16:33:06</uDate>
 <libraryId>18</libraryId>
 </oSettings>
 <categories>
@@ -402,5 +402,6 @@
 <pic><fas>false</fas><cId>770</cId><source>http://yeni.isleronline.com/uploads/zkitap/6377693cbd3ec.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2022-kartlarla-ayt-tarih.exe</fileName><fileSize>55958200</fileSize><imageSize>77467</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>783</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1dc28cba.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-tarih-sb.exe</fileName><fileSize>74586232</fileSize><imageSize>10525</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>783</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad4425d4cd0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tarih-sb.exe</fileName><fileSize>108209432</fileSize><imageSize>15660</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>783</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda12bb66e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-tarih-sb.exe</fileName><fileSize>98531976</fileSize><imageSize>15489</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

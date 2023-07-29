@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-07-26 13:32:56</uDate>
+<uDate>2023-07-29 08:32:21</uDate>
 <libraryId>2</libraryId>
 </oSettings>
 <categories>
@@ -638,5 +638,6 @@
 <pic><fas>false</fas><cId>782</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1dbb5a9e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-10-sinif-fizik-sb.exe</fileName><fileSize>96230008</fileSize><imageSize>11054</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>782</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1dbef583.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-fizik-sb.exe</fileName><fileSize>104776640</fileSize><imageSize>12045</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>782</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ad442560e4c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-fizik-sb.exe</fileName><fileSize>105937888</fileSize><imageSize>15326</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>782</cId><source>http://yeni.isleronline.com/uploads/zkitap/64c2864c00968.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-fizik-sb.exe</fileName><fileSize>81823592</fileSize><imageSize>14708</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

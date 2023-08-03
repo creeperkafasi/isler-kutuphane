@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-08-02 10:56:53</uDate>
+<uDate>2023-08-02 17:05:00</uDate>
 <libraryId>17</libraryId>
 </oSettings>
 <categories>
@@ -88,7 +88,6 @@
 <pic><fas>false</fas><cId>249</cId><source>http://yeni.isleronline.com/uploads/zkitap/5d751a6293b1e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2637.exe</fileName><fileSize>27624936</fileSize><imageSize>18744</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>249</cId><source>http://yeni.isleronline.com/uploads/zkitap/5bbbebdd11db3.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2128.exe</fileName><fileSize>22510472</fileSize><imageSize>44267</imageSize><vers>v_2</vers></pic>
 <pic><fas>false</fas><cId>249</cId><source>http://yeni.isleronline.com/uploads/zkitap/5b6155bb49a44.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/1391.exe</fileName><fileSize>56323352</fileSize><imageSize>16049</imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>390</cId><source>http://yeni.isleronline.com/uploads/zkitap/5f6252be45842.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3402.exe</fileName><fileSize>20311008</fileSize><imageSize>115567</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>390</cId><source>http://yeni.isleronline.com/uploads/zkitap/5f61e4abcb05a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3359.exe</fileName><fileSize>22474568</fileSize><imageSize>115500</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>390</cId><source>http://yeni.isleronline.com/uploads/zkitap/5d7f91b753764.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2696.exe</fileName><fileSize>28924528</fileSize><imageSize>76503</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>436</cId><source>http://yeni.isleronline.com/uploads/zkitap/5d9ca3ef397ac.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2519.exe</fileName><fileSize>27442128</fileSize><imageSize>90171</imageSize><vers>v_1</vers></pic>
@@ -491,7 +490,7 @@
 <pic><fas>false</fas><cId>780</cId><source>http://yeni.isleronline.com/uploads/zkitap/64afd1db1a78c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-biyoloji-sb.exe</fileName><fileSize>75344816</fileSize><imageSize>10674</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>780</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a4406dd53.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-biyoloji-sb.exe</fileName><fileSize>78737144</fileSize><imageSize>11239</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>780</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda12eff1f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-ayt-biyoloji-sb.exe</fileName><fileSize>117984592</fileSize><imageSize>16439</imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>786</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b6a2ccc3ec1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2023-tyt-biyoloji-sb.exe</fileName><fileSize>65031208</fileSize><imageSize>7568</imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>786</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b6a2ccc3d1c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2023-sistemler.exe</fileName><fileSize>89923016</fileSize><imageSize>2813</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>786</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ca6274d7a80.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2023-tyt-biyoloji-sb.exe</fileName><fileSize>65031208</fileSize><imageSize>107832</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>786</cId><source>http://yeni.isleronline.com/uploads/zkitap/64ca61776d6f4.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2023-sistemler.exe</fileName><fileSize>89923016</fileSize><imageSize>113061</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

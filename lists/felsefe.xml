@@ -7,7 +7,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-09-14 10:04:45</uDate>
+<uDate>2023-09-15 11:54:43</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
@@ -319,5 +319,6 @@
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda11e55c0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-10-sinif-felsefe-sb.exe</fileName><fileSize>63036648</fileSize><imageSize>10143</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda126025c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-felsefe-sb.exe</fileName><fileSize>63832424</fileSize><imageSize>10855</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda135d724.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-felsefe-sb.exe</fileName><fileSize>64423312</fileSize><imageSize>16006</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/61000953a2f3e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3877.exe</fileName><fileSize>59383576</fileSize><imageSize>16667</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

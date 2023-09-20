@@ -102,7 +102,7 @@ select {
 
 }
 
-#chromiumNotification{
+.notification{
     padding: 1rem;
     background-color: var(--ctp-crust);
     color: var(--ctp-red);

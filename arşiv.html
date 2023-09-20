@@ -38,10 +38,11 @@
 
 <body>
     <div class="header">
-        <h2>Kaliteli İşler Kütüphanesi</h2>
-        <p class="notification" id="chromiumNotification"><b>CHROME/OPERA/BRAVE KULLANICILARI!</b> Eğer sitemizde
-            indirme sorunu yaşıyorsanız, lütfen indirmek istediğiniz kitabı basılı tutup / sağ tıklayıp "Bağlantıyı
-            farklı kaydet" seçeneğine tıklayın.</p>
+        <h2>Kaliteli İşler Kütüphanesi <a href="https://deniz.is-a.dev/isler-kutuphane"
+                style="color: var(--ctp-red);">ARŞİV</a></h2>
+        <p id="chromiumNotification"><b>CHROME/OPERA/BRAVE KULLANICILARI!</b> Eğer sitemizde indirme sorunu
+            yaşıyorsanız, lütfen indirmek istediğiniz kitabı basılı tutup / sağ tıklayıp "Bağlantıyı farklı kaydet"
+            seçeneğine tıklayın.</p>
         <label for="libs">Kütüphane Seçiniz:</label>
         <select name="libraries" id="libs">
             <option value=""> </option>
@@ -55,35 +56,18 @@
             <option value="edebiyat">Edebiyat</option>
         </select>
     </div>
-
+    
+    <div class="about">
+        <blockquote>
+            Bu sayfa, <a href='/'>https://deniz.is-a.dev/isler-kutuphane</a>
+            adresindeki sitemizin veri tabanının <div style="display: inline-block;">9 Ağustos 2023</div> tarihinde
+            kaydedilen bir arşivini kullanmaktadır.
+            Sayfada bulunan linklerin güncel olmayabilir.
+        </blockquote>
+    </div>
     <div class="categories">
     </div>
 
-    <div class="about">
-        <blockquote>
-            <span style="padding-left: 0.5rem;"></span>Hoş geldiniz! Sitemizde bir çok dersin kitaplarına kolay bir
-            şekilde erişebilirsiniz. Sitemiz kitap dosyalarını direkt İşler kitapevinin sunucularından almaktadır ve
-            100% güvenilirdir. Lütfen indirmek istediğiniz kitabın dersini yukarıda seçiniz. <br>
-            <span style="padding-left: 0.5rem;"></span>Sitemizde, size en kaliteli hizmeti sunmak için çalışıyoruz
-            ve her zaman memnuniyetinizi ön planda tutuyoruz. Lütfen bildirmek istediğiniz herhangi bir sorunu veya
-            isteği <a href="https://github.com/creeperkafasi/isler-kutuphane/issues">Github</a> sayfamıza bildiriniz.
-        </blockquote>
-        <blockquote style="font-style: italic;">
-            <span style="padding-left: 0.5rem;"></span>"Hoş geldiniz! Bu sitede, ücretsiz olarak ders kitap ve eğitim
-            materyalleri paylaşıyoruz. İster öğrenci, ister öğretmen ya da sadece ilgili bir kişi olun, burada herkes
-            için faydalı olacağını umduğumuz kaynaklar bulunmaktadır. İçeriğimiz sürekli güncellenmekte ve yeni
-            kaynaklar eklenmektedir, bu nedenle lütfen sık sık ziyaret edin. İyi öğrenmeler!" <br>
-            <span style="padding-left: 1rem;"></span>- ChatGPT
-        </blockquote>
-        <div style="font-size: 1rem; max-width: 40rem; padding: 1.5rem; margin: 2rem; text-align: justify;">
-            Sitemizde Acil Yayınları, Deneme Deposu, Aktif Öğrenme Yayınları, Altyapı Yayınları, Apotemi Yayınları,
-            Bilgi Sarmal, PES Yayınları, Çap Yayınları, Yarıçap Yayınları, Vaf Yayınları, Full Matematik, Başvuru
-            Yayınları, ENS Yayınları, Hız ve Renk Yayınları, Merkez Yayınları, MF Kazanım, Yayın Denizi, Egzersiz
-            Yayınları, Mrkz Yayınları, Fiziksel Alan Yayınları, Orbital Yayınları, Biyotik Yayınları, MHY, Mikro Hücre
-            kitaplarını bulabilirsiniz. Sitemizdeki kitaplar .exe dosyası olarak indirilir. Lütfen güvenlik hatası
-            durumunda indirmeye devam et seçeneğine tıklayınız.
-        </div>
-    </div>
 
     <div class="footer">
         <p>Telif durumunda iletişime geçiniz</p>
@@ -95,16 +79,8 @@
 
         async function loadLibrary(name) {
             let booksXML =
-                await fetch(`./lists/${name}.xml`).then(res => res.text()
+                await fetch(`https://raw.githubusercontent.com/creeperkafasi/isler-kutuphane/2022-2023-son-ar%C5%9Fiv/lists/${name}.xml`).then(res => res.text()
                     .then(str => new window.DOMParser().parseFromString(str.trim(), "text/xml")));
-
-            if (booksXML.querySelector("error")) {
-                document.querySelector(".categories").innerHTML = "<p class='notification'>" +
-                    "<i>Bu ders şifresinin süresi dolmuş. Elinizde çalışan şifre varsa GitHub sayfasına gönderin.</i>" +
-                    "<br> <a href='/arşiv.html'>Arşivi görüntülemek için tıklayın</a>" +
-                    "</p>";
-                return;
-            }
 
             document.querySelector(".categories").innerHTML = "";
             Array.from(booksXML.querySelector("categories").children).forEach(cat => {

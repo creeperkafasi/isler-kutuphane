@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-10-09 20:45:28</uDate>
+<uDate>2023-10-11 11:43:50</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -19,6 +19,7 @@
 <aCategory><cId>467</cId><cName>AKTİF ÖĞRENME YAYINLARI</cName></aCategory>
 <aCategory><cId>764</cId><cName>ALTYAPI YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>392</cId><cName>APOTEMİ YAYINLARI </cName></aCategory>
+<aCategory><cId>814</cId><cName>AROMAT YAYINLARI</cName></aCategory>
 <aCategory><cId>778</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
 <aCategory><cId>746</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>674</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
@@ -421,11 +422,11 @@
 <pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/61355703a4dfa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4068.exe</fileName><fileSize>51997504</fileSize><imageSize>15769</imageSize><vers>v_1</vers><fas>6136098272705.png</fas></pic>
 <pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/61355703b44a8.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4069.exe</fileName><fileSize>53876536</fileSize><imageSize>15874</imageSize><vers>v_1</vers><fas>6136098272705.png</fas></pic>
 <pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/61355703c8f7d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4070.exe</fileName><fileSize>52155672</fileSize><imageSize>15893</imageSize><vers>v_1</vers><fas>6136098272705.png</fas></pic>
-<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/set/5f9ffd05837ac.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>87052</imageSize><vers>v_1</vers><fas>false</fas></pic>
-<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/5bb7d7e050885.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2066.exe</fileName><fileSize>52959880</fileSize><imageSize>60350</imageSize><vers>v_2</vers><fas>5f9ffd05837ac.png</fas></pic>
-<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/5bb7d7e050ede.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2067.exe</fileName><fileSize>52892832</fileSize><imageSize>57907</imageSize><vers>v_2</vers><fas>5f9ffd05837ac.png</fas></pic>
-<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/5bb7d7e051337.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2068.exe</fileName><fileSize>54233344</fileSize><imageSize>58999</imageSize><vers>v_2</vers><fas>5f9ffd05837ac.png</fas></pic>
-<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/5bb7d7e051799.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2069.exe</fileName><fileSize>53844080</fileSize><imageSize>60330</imageSize><vers>v_2</vers><fas>5f9ffd05837ac.png</fas></pic>
+<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/set/652660158db51.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>94353</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523fa50d037f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/yaricap-2023-integral.exe</fileName><fileSize>51823880</fileSize><imageSize>14825</imageSize><vers>v_1</vers><fas>652660158db51.png</fas></pic>
+<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523fa51275f9.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/yaricap-2023-limit-turev.exe</fileName><fileSize>52462856</fileSize><imageSize>13951</imageSize><vers>v_1</vers><fas>652660158db51.png</fas></pic>
+<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523fa5127989.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/yaricap-2023-logaritma-diziler.exe</fileName><fileSize>51391776</fileSize><imageSize>14596</imageSize><vers>v_1</vers><fas>652660158db51.png</fas></pic>
+<pic><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523fa5127b5e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/yaricap-2023-trigonometri.exe</fileName><fileSize>51496936</fileSize><imageSize>14489</imageSize><vers>v_1</vers><fas>652660158db51.png</fas></pic>
 <pic><fas>false</fas><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/617f156054531.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4134.exe</fileName><fileSize>72575528</fileSize><imageSize>62854</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/5ff45fbfe0f86.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3605.exe</fileName><fileSize>63945056</fileSize><imageSize>56562</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>665</cId><source>http://yeni.isleronline.com/uploads/zkitap/5fe1ee2cc54c2.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3599.exe</fileName><fileSize>63742168</fileSize><imageSize>84274</imageSize><vers>v_1</vers></pic>
@@ -1068,5 +1069,6 @@
 <pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/64f98c4271f72.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-polinomlar.exe</fileName><fileSize>77442840</fileSize><imageSize>182372</imageSize><vers>v_1</vers><fas>64fc34110bcc8.png</fas></pic>
 <pic><fas>false</fas><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/652008ae63c77.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-ayt-matematik-sb.exe</fileName><fileSize>113596752</fileSize><imageSize>57801</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>806</cId><source>http://yeni.isleronline.com/uploads/zkitap/6503ee0eabf5f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2023-tyt-matematik-kuvvetlendiren-sb.exe</fileName><fileSize>57968176</fileSize><imageSize>25350</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>814</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523fd504a153.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2023-tyt-matematik-sb.exe</fileName><fileSize>66746688</fileSize><imageSize>5386</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

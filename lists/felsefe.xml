@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-10-22 23:05:54</uDate>
+<uDate>2023-10-24 12:05:19</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
@@ -318,5 +318,6 @@
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda126025c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-felsefe-sb.exe</fileName><fileSize>63832424</fileSize><imageSize>10855</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda135d724.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-felsefe-sb.exe</fileName><fileSize>64423312</fileSize><imageSize>16006</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65313ea5e4d9c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-felsefe-sb.exe</fileName><fileSize>60072216</fileSize><imageSize>16561</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65361a496d952.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-sosyal-bilimler-30-deneme.exe</fileName><fileSize>58681000</fileSize><imageSize>18448</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-10-24 11:26:41</uDate>
+<uDate>2023-10-24 13:43:47</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -982,12 +982,6 @@
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a31d9b7a01a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-tyt-ilac-deneme.exe</fileName><fileSize>56297248</fileSize><imageSize>27424</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd55f50e066.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-kati-cisimler.exe</fileName><fileSize>57942592</fileSize><imageSize>9517</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63cfe455539e7.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-analitik-geometri.exe</fileName><fileSize>57657896</fileSize><imageSize>10086</imageSize><vers>v_1</vers></pic>
-<pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/set/6523a4a8829b3.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>94535</imageSize><vers>v_1</vers><fas>false</fas></pic>
-<pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/651ffda8896c7.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-11-sinif-matematik-fl-fasikul-1.exe</fileName><fileSize>59480816</fileSize><imageSize>117635</imageSize><vers>v_1</vers><fas>6523a4a8829b3.png</fas></pic>
-<pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/651ffda8c8381.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-11-sinif-matematik-fl-fasikul-2.exe</fileName><fileSize>56708272</fileSize><imageSize>117833</imageSize><vers>v_1</vers><fas>6523a4a8829b3.png</fas></pic>
-<pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/651ffda903cba.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-11-sinif-matematik-fl-fasikul-3.exe</fileName><fileSize>59809984</fileSize><imageSize>120050</imageSize><vers>v_1</vers><fas>6523a4a8829b3.png</fas></pic>
-<pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/651ffda9329ef.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-11-sinif-matematik-fl-fasikul-4.exe</fileName><fileSize>61360160</fileSize><imageSize>118125</imageSize><vers>v_1</vers><fas>6523a4a8829b3.png</fas></pic>
-<pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/651ffda964a0f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-11-sinif-matematik-fl-fasikul-5.exe</fileName><fileSize>58747312</fileSize><imageSize>119063</imageSize><vers>v_1</vers><fas>6523a4a8829b3.png</fas></pic>
 <pic><fas>false</fas><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/64a2a43fd915a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-9-sinif-matematik-sb.exe</fileName><fileSize>102419056</fileSize><imageSize>12874</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/64e888b6f3901.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-10-sinif-matematik-sb.exe</fileName><fileSize>96195816</fileSize><imageSize>12750</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/64dcb3480ff56.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-10-sinif-matematik-sb.exe</fileName><fileSize>96195816</fileSize><imageSize>13063</imageSize><vers>v_1</vers></pic>

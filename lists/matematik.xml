@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-10-29 16:16:11</uDate>
+<uDate>2023-11-01 17:39:59</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -1078,6 +1078,13 @@
 <pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/64f98ba7e77a5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-mantik-kume.exe</fileName><fileSize>65834704</fileSize><imageSize>171674</imageSize><vers>v_1</vers><fas>64fc34110bcc8.png</fas></pic>
 <pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/64f98c422d7ff.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-per-komb-bin-olasilik.exe</fileName><fileSize>74479872</fileSize><imageSize>173124</imageSize><vers>v_1</vers><fas>64fc34110bcc8.png</fas></pic>
 <pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/64f98c4271f72.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-polinomlar.exe</fileName><fileSize>77442840</fileSize><imageSize>182372</imageSize><vers>v_1</vers><fas>64fc34110bcc8.png</fas></pic>
+<pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/set/65426322439c0.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>91339</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/653a510b1fa91.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-ucgenler.exe</fileName><fileSize>75634208</fileSize><imageSize>114627</imageSize><vers>v_1</vers><fas>65426322439c0.png</fas></pic>
+<pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/653a510a766cc.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-cokgenler-dortgenler.exe</fileName><fileSize>76621264</fileSize><imageSize>117193</imageSize><vers>v_1</vers><fas>65426322439c0.png</fas></pic>
+<pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/653a5109f3ace.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-cember.exe</fileName><fileSize>65765744</fileSize><imageSize>114063</imageSize><vers>v_1</vers><fas>65426322439c0.png</fas></pic>
+<pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/653a510aebccb.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-kati-cisimler.exe</fileName><fileSize>63868712</fileSize><imageSize>114886</imageSize><vers>v_1</vers><fas>65426322439c0.png</fas></pic>
+<pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/653a510ab9912.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-dogrunun-analitik-incelenmesi.exe</fileName><fileSize>63201232</fileSize><imageSize>117866</imageSize><vers>v_1</vers><fas>65426322439c0.png</fas></pic>
+<pic><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/653a510a3db2e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-cemberin-analitik-incelenmesi.exe</fileName><fileSize>59360160</fileSize><imageSize>121539</imageSize><vers>v_1</vers><fas>65426322439c0.png</fas></pic>
 <pic><fas>false</fas><cId>791</cId><source>http://yeni.isleronline.com/uploads/zkitap/652008ae63c77.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-ayt-matematik-sb.exe</fileName><fileSize>113596752</fileSize><imageSize>57801</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>806</cId><source>http://yeni.isleronline.com/uploads/zkitap/6503ee0eabf5f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2023-tyt-matematik-kuvvetlendiren-sb.exe</fileName><fileSize>57968176</fileSize><imageSize>25350</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>814</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523fd504a153.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2023-tyt-matematik-sb.exe</fileName><fileSize>66746688</fileSize><imageSize>5386</imageSize><vers>v_1</vers></pic>

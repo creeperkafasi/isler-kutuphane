@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-10-29 16:16:11</uDate>
+<uDate>2023-11-03 09:30:48</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
@@ -318,6 +318,17 @@
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda126025c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-11-sinif-felsefe-sb.exe</fileName><fileSize>63832424</fileSize><imageSize>10855</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/64bfda135d724.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-felsefe-sb.exe</fileName><fileSize>64423312</fileSize><imageSize>16006</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65313ea5e4d9c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-felsefe-sb.exe</fileName><fileSize>60072216</fileSize><imageSize>16561</imageSize><vers>v_1</vers></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/set/65449306e8554.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>114079</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4d1a3c4.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-1.exe</fileName><fileSize>53153080</fileSize><imageSize>141746</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4d5cf40.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-2.exe</fileName><fileSize>53030688</fileSize><imageSize>141400</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4d983c2.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-3.exe</fileName><fileSize>53147920</fileSize><imageSize>141550</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4dcaa1f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-4.exe</fileName><fileSize>53247712</fileSize><imageSize>141626</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4e14ba9.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-5.exe</fileName><fileSize>53189456</fileSize><imageSize>141394</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4e7ef80.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-6.exe</fileName><fileSize>52836688</fileSize><imageSize>141198</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4ec18b3.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-7.exe</fileName><fileSize>52647664</fileSize><imageSize>141805</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65423a4f117aa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-kamp-8.exe</fileName><fileSize>52885640</fileSize><imageSize>141389</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/654239af02450.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-deneme-1.exe</fileName><fileSize>50788912</fileSize><imageSize>58958</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
+<pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/654239af8925d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-deneme-2.exe</fileName><fileSize>50681600</fileSize><imageSize>59313</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65361a496d952.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-sosyal-bilimler-30-deneme.exe</fileName><fileSize>58681000</fileSize><imageSize>18448</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

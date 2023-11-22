@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-11-16 19:40:09</uDate>
+<uDate>2023-11-22 10:28:46</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -214,7 +214,7 @@
 <pic><cId>467</cId><source>http://yeni.isleronline.com/uploads/zkitap/613795af0f8e1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4081.exe</fileName><fileSize>21086888</fileSize><imageSize>26705</imageSize><vers>v_1</vers><fas>61387bad911ef.png</fas></pic>
 <pic><cId>467</cId><source>http://yeni.isleronline.com/uploads/zkitap/613795af1d3c9.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4082.exe</fileName><fileSize>18408392</fileSize><imageSize>27437</imageSize><vers>v_1</vers><fas>61387bad911ef.png</fas></pic>
 <pic><cId>467</cId><source>http://yeni.isleronline.com/uploads/zkitap/613795af38c48.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4083.exe</fileName><fileSize>17110560</fileSize><imageSize>26071</imageSize><vers>v_1</vers><fas>61387bad911ef.png</fas></pic>
-<pic><fas>false</fas><cId>467</cId><source>http://yeni.isleronline.com/uploads/zkitap/5faa9bbd124b3.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3565.exe</fileName><fileSize>16666504</fileSize><imageSize>59728</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>467</cId><source>http://yeni.isleronline.com/uploads/zkitap/655dacade833c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3565.exe</fileName><fileSize>16666504</fileSize><imageSize>108465</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>586</cId><source>http://yeni.isleronline.com/uploads/zkitap/60a38be6b6a12.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3797.exe</fileName><fileSize>36604760</fileSize><imageSize>74526</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>586</cId><source>http://yeni.isleronline.com/uploads/zkitap/60a38be6d9cda.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3798.exe</fileName><fileSize>45974328</fileSize><imageSize>72324</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>586</cId><source>http://yeni.isleronline.com/uploads/zkitap/60a26b3c006bb.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/3795.exe</fileName><fileSize>24853568</fileSize><imageSize>28607</imageSize><vers>v_1</vers></pic>
@@ -978,7 +978,7 @@
 <pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/63455b67589e3.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-problemler.exe</fileName><fileSize>55000096</fileSize><imageSize>112147</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/623dcaea31f3b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-limit-turev-integral.exe</fileName><fileSize>18341272</fileSize><imageSize>108227</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/6230741d54d9b.jpg</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/4129.exe</fileName><fileSize>23835384</fileSize><imageSize>104716</imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/6363c167c032a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-ayt-matematik.exe</fileName><fileSize>58294352</fileSize><imageSize>35489</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>772</cId><source>http://yeni.isleronline.com/uploads/zkitap/655dadabd3264.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aktif-2022-ayt-matematik.exe</fileName><fileSize>58294352</fileSize><imageSize>98450</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63a31d9b7a01a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-tyt-ilac-deneme.exe</fileName><fileSize>56297248</fileSize><imageSize>27424</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63bd55f50e066.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-kati-cisimler.exe</fileName><fileSize>57942592</fileSize><imageSize>9517</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>775</cId><source>http://yeni.isleronline.com/uploads/zkitap/63cfe455539e7.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2022-analitik-geometri.exe</fileName><fileSize>57657896</fileSize><imageSize>10086</imageSize><vers>v_1</vers></pic>

@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-12-21 14:14:54</uDate>
+<uDate>2024-01-02 10:04:19</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -32,8 +32,10 @@
 <aCategory><cId>615</cId><cName>ÇAP YAYINLARI 2020-2021</cName></aCategory>
 <aCategory><cId>665</cId><cName>YARIÇAP YAYINLARI </cName></aCategory>
 <aCategory><cId>712</cId><cName>VAF YAYINLARI 2022-2023</cName></aCategory>
+<aCategory><cId>826</cId><cName>FULL MATEMATİK 2023-2024</cName></aCategory>
 <aCategory><cId>752</cId><cName>FULL MATEMATİK 2022-2023</cName></aCategory>
 <aCategory><cId>429</cId><cName>Full Matematik</cName></aCategory>
+<aCategory><cId>827</cId><cName>KRALLAR KARMASI YAYINLARI</cName></aCategory>
 <aCategory><cId>393</cId><cName>Başvuru Yayınları</cName></aCategory>
 <aCategory><cId>586</cId><cName>ENS YAYINLARI 2020</cName></aCategory>
 <aCategory><cId>658</cId><cName>HIZ VE RENK 2020-2021</cName></aCategory>
@@ -1104,5 +1106,32 @@
 <pic><fas>false</fas><cId>814</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523fd504a153.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2023-tyt-matematik-sb.exe</fileName><fileSize>66746688</fileSize><imageSize>5386</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>825</cId><source>http://yeni.isleronline.com/uploads/zkitap/6572dd8e101b8.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/c1cell-2023-9-sinif-matematik-ortak-sinav-provasi.exe</fileName><fileSize>56272488</fileSize><imageSize>77926</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>825</cId><source>http://yeni.isleronline.com/uploads/zkitap/6572dde8681e2.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/c1cell-2023-tyt-matematik-12-ds.exe</fileName><fileSize>53908736</fileSize><imageSize>78660</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>826</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583da9eed3d0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/full-2023-tyt-matematik-denemeleri.exe</fileName><fileSize>53006792</fileSize><imageSize>41067</imageSize><vers>v_1</vers></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/set/6593b55b49d34.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>118831</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146799b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-1.exe</fileName><fileSize>49802272</fileSize><imageSize>13542</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146bbe5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-2.exe</fileName><fileSize>50168648</fileSize><imageSize>33055</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146be45.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-3.exe</fileName><fileSize>49735016</fileSize><imageSize>36004</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146c018.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-4.exe</fileName><fileSize>50056720</fileSize><imageSize>74269</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146cddb.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-5.exe</fileName><fileSize>50266712</fileSize><imageSize>59796</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146cff0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-6.exe</fileName><fileSize>50100616</fileSize><imageSize>83659</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146db94.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-7.exe</fileName><fileSize>49732432</fileSize><imageSize>39016</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dd2a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-8.exe</fileName><fileSize>50143752</fileSize><imageSize>21487</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dedf.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-9.exe</fileName><fileSize>49765264</fileSize><imageSize>15892</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/set/6593b454bfa97.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>66496</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685bc6e4.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-1.exe</fileName><fileSize>49361000</fileSize><imageSize>41918</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685c95f4.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-2.exe</fileName><fileSize>49805288</fileSize><imageSize>70902</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685c9a28.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-3.exe</fileName><fileSize>49232184</fileSize><imageSize>16210</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685c9dde.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-4.exe</fileName><fileSize>49209592</fileSize><imageSize>41594</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cb1c6.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-5.exe</fileName><fileSize>50694928</fileSize><imageSize>32697</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cb463.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-6.exe</fileName><fileSize>49470144</fileSize><imageSize>14100</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cc689.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-7.exe</fileName><fileSize>49813472</fileSize><imageSize>136003</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cca81.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-8.exe</fileName><fileSize>49329976</fileSize><imageSize>18737</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cccd3.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-9.exe</fileName><fileSize>49337328</fileSize><imageSize>18757</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685ccfd8.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-10.exe</fileName><fileSize>49188024</fileSize><imageSize>13968</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cd231.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-11.exe</fileName><fileSize>49664328</fileSize><imageSize>40878</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cd528.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-12.exe</fileName><fileSize>49473472</fileSize><imageSize>14856</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cd756.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-13.exe</fileName><fileSize>49825656</fileSize><imageSize>92820</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cf21b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-14.exe</fileName><fileSize>49470448</fileSize><imageSize>37909</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
+<pic><fas>false</fas><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583eee407305.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-ayt-geometri-brans-ds.exe</fileName><fileSize>51185296</fileSize><imageSize>37069</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

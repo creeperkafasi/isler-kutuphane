@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2023-12-21 14:14:54</uDate>
+<uDate>2024-01-02 10:26:39</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
@@ -18,6 +18,7 @@
 <aCategory><cId>761</cId><cName>ÇAP YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>474</cId><cName>Çap yayınları</cName></aCategory>
 <aCategory><cId>711</cId><cName>VAF YAYINLARI</cName></aCategory>
+<aCategory><cId>830</cId><cName>KRALLAR KARMASI YAYINLARI</cName></aCategory>
 <aCategory><cId>457</cId><cName>ENS YAYINLARI</cName></aCategory>
 <aCategory><cId>391</cId><cName>Hız ve Renk</cName></aCategory>
 <aCategory><cId>124</cId><cName>Mrkz Yayınları</cName></aCategory>
@@ -275,5 +276,15 @@
 <pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/654239af02450.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-deneme-1.exe</fileName><fileSize>50788912</fileSize><imageSize>58958</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
 <pic><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/654239af8925d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-deneme-2.exe</fileName><fileSize>50681600</fileSize><imageSize>59313</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
 <pic><fas>false</fas><cId>789</cId><source>http://yeni.isleronline.com/uploads/zkitap/65361a496d952.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-sosyal-bilimler-30-deneme.exe</fileName><fileSize>58681000</fileSize><imageSize>18448</imageSize><vers>v_1</vers></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/set/6593b55b49d34.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>118831</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146799b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-1.exe</fileName><fileSize>49802272</fileSize><imageSize>13542</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146bbe5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-2.exe</fileName><fileSize>50168648</fileSize><imageSize>33055</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146be45.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-3.exe</fileName><fileSize>49735016</fileSize><imageSize>36004</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146c018.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-4.exe</fileName><fileSize>50056720</fileSize><imageSize>74269</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146cddb.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-5.exe</fileName><fileSize>50266712</fileSize><imageSize>59796</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146cff0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-6.exe</fileName><fileSize>50100616</fileSize><imageSize>83659</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146db94.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-7.exe</fileName><fileSize>49732432</fileSize><imageSize>39016</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dd2a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-8.exe</fileName><fileSize>50143752</fileSize><imageSize>21487</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dedf.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-9.exe</fileName><fileSize>49765264</fileSize><imageSize>15892</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
 </pics>
 </data>

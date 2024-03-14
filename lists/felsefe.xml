@@ -5,11 +5,12 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-03-12 11:34:50</uDate>
+<uDate>2024-03-14 09:35:59</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
 <aCategory><cId>768</cId><cName>ALTYAPI YAYINLARI 2022-2023</cName></aCategory>
+<aCategory><cId>840</cId><cName>AROMAT YAYINLARI</cName></aCategory>
 <aCategory><cId>789</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
 <aCategory><cId>748</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>676</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
@@ -287,5 +288,6 @@
 <pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146db94.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-7.exe</fileName><fileSize>49732432</fileSize><imageSize>39016</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
 <pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dd2a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-8.exe</fileName><fileSize>50143752</fileSize><imageSize>21487</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
 <pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dedf.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-9.exe</fileName><fileSize>49765264</fileSize><imageSize>15892</imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
+<pic><fas>false</fas><cId>840</cId><source>http://yeni.isleronline.com/uploads/zkitap/65efe66be242a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aromat-2023-tyt-sosyal-bilimler-model-sorular.exe</fileName><fileSize>53175920</fileSize><imageSize>35716</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

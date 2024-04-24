@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-04-22 14:22:35</uDate>
+<uDate>2024-04-24 08:35:34</uDate>
 <libraryId>16</libraryId>
 </oSettings>
 <categories>
@@ -525,6 +525,7 @@
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/654239af02450.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-deneme-1.exe</fileName><fileSize>50788912</fileSize><imageSize>58958</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/654239af8925d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-tam-tekrar-deneme-2.exe</fileName><fileSize>50681600</fileSize><imageSize>59313</imageSize><vers>v_1</vers><fas>65449306e8554.png</fas></pic>
 <pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/653227d55f747.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-kimya-40-deneme.exe</fileName><fileSize>56718136</fileSize><imageSize>18021</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/661cd3374be93.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-kimya-brans-denemeleri.exe</fileName><fileSize>54590760</fileSize><imageSize>42024</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb428be4ace.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-yildizlar-yarisiyor-tyt-fen-bilimleri-brans-ds.exe</fileName><fileSize>62828040</fileSize><imageSize>111144</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/653227d4f121e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-fen-bilimleri-25-deneme.exe</fileName><fileSize>63255560</fileSize><imageSize>18108</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/655b025cf0482.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-fen-bilimleri-10-deneme.exe</fileName><fileSize>59685264</fileSize><imageSize>16076</imageSize><vers>v_1</vers></pic>
@@ -534,7 +535,6 @@
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/641182fc8db94.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-3.exe</fileName><fileSize>53667760</fileSize><imageSize>107137</imageSize><vers>v_1</vers><fas>6412f1c5e60f0.png</fas></pic>
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/641182fcc1c80.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-4.exe</fileName><fileSize>52697584</fileSize><imageSize>107169</imageSize><vers>v_1</vers><fas>6412f1c5e60f0.png</fas></pic>
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/641182fcf2eb1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-5.exe</fileName><fileSize>53255056</fileSize><imageSize>107056</imageSize><vers>v_1</vers><fas>6412f1c5e60f0.png</fas></pic>
-<pic><fas>false</fas><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/6232e52c58f6f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kimya-brans-ds.exe</fileName><fileSize>55115360</fileSize><imageSize>77085</imageSize><vers>v_1</vers></pic>
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/set/621cc57aadd92.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>108946</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/621ca6bd0be29.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-sayisal-tam-tekrar-1.exe</fileName><fileSize>52226944</fileSize><imageSize>118650</imageSize><vers>v_1</vers><fas>621cc57aadd92.png</fas></pic>
 <pic><cId>779</cId><source>http://yeni.isleronline.com/uploads/zkitap/621ccb04684db.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-sayisal-tam-tekrar-2.exe</fileName><fileSize>52273080</fileSize><imageSize>53755</imageSize><vers>v_1</vers><fas>621cc57aadd92.png</fas></pic>

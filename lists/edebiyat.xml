@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-05-15 17:25:09</uDate>
+<uDate>2024-05-16 13:50:55</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -20,6 +20,7 @@
 <aCategory><cId>688</cId><cName>ÇAP 2021-2022</cName></aCategory>
 <aCategory><cId>616</cId><cName>ÇAP 2020-2021</cName></aCategory>
 <aCategory><cId>440</cId><cName>Çap 2019-2020</cName></aCategory>
+<aCategory><cId>845</cId><cName>DENEME DEPOSU 2023-2024</cName></aCategory>
 <aCategory><cId>722</cId><cName>DENEME DEPOSU 2022</cName></aCategory>
 <aCategory><cId>807</cId><cName>KRALLAR KARMASI YAYINLARI</cName></aCategory>
 <aCategory><cId>788</cId><cName>SÜRE YAYINLARI 2023-2024</cName></aCategory>
@@ -571,5 +572,6 @@
 <pic><fas>false</fas><cId>836</cId><source>http://yeni.isleronline.com/uploads/zkitap/65e9b76984470.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-10-sinif-edebiyat-sb.exe</fileName><fileSize>73539560</fileSize><imageSize>39818</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>836</cId><source>http://yeni.isleronline.com/uploads/zkitap/64f9cdde0bd8d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-11-sinif-edebiyat-sb.exe</fileName><fileSize>86172584</fileSize><imageSize>55484</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>836</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523a83c4bb54.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-tyt-turkce-sb.exe</fileName><fileSize>79343360</fileSize><imageSize>54131</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>845</cId><source>http://yeni.isleronline.com/uploads/zkitap/6641fb0c67563.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/deneme-deposu-2023-dil-bilgisi-denemeleri.exe</fileName><fileSize>51080344</fileSize><imageSize>41471</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

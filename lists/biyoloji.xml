@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-05-15 17:25:09</uDate>
+<uDate>2024-05-23 17:00:42</uDate>
 <libraryId>17</libraryId>
 </oSettings>
 <categories>
@@ -459,5 +459,6 @@
 <pic><cId>834</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb65d44756f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-fen-bilimleri-deneme-19.exe</fileName><fileSize>49248056</fileSize><imageSize>13867</imageSize><vers>v_1</vers><fas>65d2fe0657da6.png</fas></pic>
 <pic><fas>false</fas><cId>834</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb60189ee80.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-biyoloji-45-deneme.exe</fileName><fileSize>50565032</fileSize><imageSize>36991</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>837</cId><source>http://yeni.isleronline.com/uploads/zkitap/65efe66b966e5.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aromat-2023-tyt-fen-bilimleri-model-sorular.exe</fileName><fileSize>53832384</fileSize><imageSize>34304</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>837</cId><source>http://yeni.isleronline.com/uploads/zkitap/664dd829366ab.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aromat-2024-ayt-fen-bilimleri-model-sorular.exe</fileName><fileSize>54106016</fileSize><imageSize>53932</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

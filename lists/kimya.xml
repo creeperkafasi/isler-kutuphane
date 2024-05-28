@@ -5,12 +5,13 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-05-23 17:00:29</uDate>
+<uDate>2024-05-28 11:31:11</uDate>
 <libraryId>16</libraryId>
 </oSettings>
 <categories>
 <aCategory><cId>470</cId><cName>Aktif Öğrenme Yayınları</cName></aCategory>
 <aCategory><cId>769</cId><cName>ALTYAPI YAYINLARI 2022-2023</cName></aCategory>
+<aCategory><cId>846</cId><cName>APOTEMİ YAYINLARI 2023-2024</cName></aCategory>
 <aCategory><cId>475</cId><cName>Apotemi</cName></aCategory>
 <aCategory><cId>813</cId><cName>AROMAT YAYINLARI</cName></aCategory>
 <aCategory><cId>779</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
@@ -646,5 +647,6 @@
 <pic><cId>833</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb65d447384.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-fen-bilimleri-deneme-18.exe</fileName><fileSize>49282504</fileSize><imageSize>38576</imageSize><vers>v_1</vers><fas>65d2fe0657da6.png</fas></pic>
 <pic><cId>833</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb65d44756f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-fen-bilimleri-deneme-19.exe</fileName><fileSize>49248056</fileSize><imageSize>13867</imageSize><vers>v_1</vers><fas>65d2fe0657da6.png</fas></pic>
 <pic><fas>false</fas><cId>833</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb6018d51aa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-kimya-45-deneme.exe</fileName><fileSize>50640016</fileSize><imageSize>36721</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>846</cId><source>http://yeni.isleronline.com/uploads/zkitap/665433765a6cc.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/apotemi-2024-ayt-kimya-sb.exe</fileName><fileSize>80065432</fileSize><imageSize>61721</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

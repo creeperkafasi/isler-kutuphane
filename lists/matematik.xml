@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-05-29 10:22:42</uDate>
+<uDate>2024-06-25 17:15:50</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -36,6 +36,7 @@
 <aCategory><cId>429</cId><cName>Full Matematik</cName></aCategory>
 <aCategory><cId>827</cId><cName>KRALLAR KARMASI YAYINLARI</cName></aCategory>
 <aCategory><cId>843</cId><cName>ORİJİNAL YAYINLARI</cName></aCategory>
+<aCategory><cId>847</cId><cName>MİKRO ORİİNAL YAYINLARI</cName></aCategory>
 <aCategory><cId>586</cId><cName>ENS YAYINLARI 2020</cName></aCategory>
 <aCategory><cId>658</cId><cName>HIZ VE RENK 2020-2021</cName></aCategory>
 <aCategory><cId>78</cId><cName>Hız ve Renk Yayınları</cName></aCategory>
@@ -1066,5 +1067,6 @@
 <pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cd756.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-13.exe</fileName><fileSize>49825656</fileSize><imageSize>92820</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
 <pic><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f685cf21b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-matematik-deneme-14.exe</fileName><fileSize>49470448</fileSize><imageSize>37909</imageSize><vers>v_1</vers><fas>6593b454bfa97.png</fas></pic>
 <pic><fas>false</fas><cId>827</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583eee407305.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-ayt-geometri-brans-ds.exe</fileName><fileSize>51185296</fileSize><imageSize>37069</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>847</cId><source>http://yeni.isleronline.com/uploads/zkitap/6659cb092c4ab.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2024-matematik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

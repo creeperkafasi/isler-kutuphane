@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-07-17 11:36:55</uDate>
+<uDate>2024-07-19 12:57:04</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -575,5 +575,6 @@
 <pic><fas>false</fas><cId>836</cId><source>http://yeni.isleronline.com/uploads/zkitap/6523a83c4bb54.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2023-tyt-turkce-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>845</cId><source>http://yeni.isleronline.com/uploads/zkitap/6641fb0c67563.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/deneme-deposu-2023-dil-bilgisi-denemeleri.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>859</cId><source>http://yeni.isleronline.com/uploads/zkitap/6690c841c86c4.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-turkce-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>859</cId><source>http://yeni.isleronline.com/uploads/zkitap/6698a9f283f75.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-ayt-dil-bilgisi-sb.exe</fileName><fileSize>545706272</fileSize><imageSize>52827</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

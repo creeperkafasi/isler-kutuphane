@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-07-17 11:36:55</uDate>
+<uDate>2024-07-19 12:56:34</uDate>
 <libraryId>2</libraryId>
 </oSettings>
 <categories>
@@ -671,5 +671,6 @@
 <pic><cId>832</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb65d44756f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-fen-bilimleri-deneme-19.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>65d2fe0657da6.png</fas></pic>
 <pic><fas>false</fas><cId>832</cId><source>http://yeni.isleronline.com/uploads/zkitap/65cb6018d403a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-fizik-45-deneme.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>858</cId><source>http://yeni.isleronline.com/uploads/zkitap/6690c841c7835.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-fizik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>858</cId><source>http://yeni.isleronline.com/uploads/zkitap/6698a9f2638ab.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-11-sinif-fizik-sb.exe</fileName><fileSize>465010976</fileSize><imageSize>33464</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

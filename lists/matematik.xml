@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-07-21 11:08:15</uDate>
+<uDate>2024-07-22 12:12:32</uDate>
 <libraryId>15</libraryId>
 </oSettings>
 <categories>
@@ -25,6 +25,7 @@
 <aCategory><cId>746</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>674</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
 <aCategory><cId>666</cId><cName>PES YAYINLARI</cName></aCategory>
+<aCategory><cId>863</cId><cName>C1CELL YAYINLARI 2024-2025</cName></aCategory>
 <aCategory><cId>825</cId><cName>C1CELL YAYINLARI</cName></aCategory>
 <aCategory><cId>791</cId><cName>ÇAP YAYINLARI 2023-2024</cName></aCategory>
 <aCategory><cId>730</cId><cName>ÇAP YAYINLARI 2022-2023</cName></aCategory>
@@ -952,7 +953,7 @@
 <pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/641182fc8db94.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-3.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>6412f1c5e60f0.png</fas></pic>
 <pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/641182fcc1c80.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-4.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>6412f1c5e60f0.png</fas></pic>
 <pic><cId>778</cId><source>http://yeni.isleronline.com/uploads/zkitap/641182fcf2eb1.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-5.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>6412f1c5e60f0.png</fas></pic>
-<pic><fas>false</fas><cId>785</cId><source>http://yeni.isleronline.com/uploads/zkitap/650be1311c67d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2023-11-sinif-matematik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>785</cId><source>http://yeni.isleronline.com/uploads/zkitap/669e16a11a373.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2023-11-sinif-matematik-sb.exe</fileName><fileSize></fileSize><imageSize>11469</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>785</cId><source>http://yeni.isleronline.com/uploads/zkitap/650be22f8cb9b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2023-tyt-matematik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>785</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b6a2ccc27cc.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2023-ayt-matematik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>785</cId><source>http://yeni.isleronline.com/uploads/zkitap/64b6a2ccc2a25.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/acil-2023-tyt-ayt-geometri-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
@@ -1079,5 +1080,8 @@
 <pic><fas>false</fas><cId>852</cId><source>http://yeni.isleronline.com/uploads/zkitap/6659cb092c4ab.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2024-matematik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>855</cId><source>http://yeni.isleronline.com/uploads/zkitap/6690c841c7960.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-matematik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>855</cId><source>http://yeni.isleronline.com/uploads/zkitap/6690c841c4f94.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-11-sinif-matematik-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>855</cId><source>http://yeni.isleronline.com/uploads/zkitap/669a0c14e4260.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-10-sinif-matematik-sb.exe</fileName><fileSize>448946912</fileSize><imageSize>19377</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>855</cId><source>http://yeni.isleronline.com/uploads/zkitap/669a69caf1b26.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-problemler-sb.exe</fileName><fileSize>288764640</fileSize><imageSize>52713</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>863</cId><source>http://yeni.isleronline.com/uploads/zkitap/669a4c0bcd3a0.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/c1cell-2024-problemler-sb.exe</fileName><fileSize>264803040</fileSize><imageSize>33544</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

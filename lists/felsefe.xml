@@ -5,14 +5,13 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-07-22 12:12:32</uDate>
+<uDate>2024-07-23 11:31:36</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
 <aCategory><cId>768</cId><cName>ALTYAPI YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>840</cId><cName>AROMAT YAYINLARI</cName></aCategory>
 <aCategory><cId>857</cId><cName>BİLGİ SARMAL 2024-2025</cName></aCategory>
-<aCategory><cId>848</cId><cName>BİLGİ SARMAL 2024-2025</cName></aCategory>
 <aCategory><cId>789</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
 <aCategory><cId>748</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>676</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
@@ -206,9 +205,9 @@
 <pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dd2a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-8.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
 <pic><cId>830</cId><source>http://yeni.isleronline.com/uploads/zkitap/6583f9146dedf.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/krallar-karmasi-2023-tyt-paket-deneme-9.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>6593b55b49d34.png</fas></pic>
 <pic><fas>false</fas><cId>840</cId><source>http://yeni.isleronline.com/uploads/zkitap/65efe66be242a.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aromat-2023-tyt-sosyal-bilimler-model-sorular.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>848</cId><source>http://yeni.isleronline.com/uploads/zkitap/65313ea5e4d9c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-felsefe-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/669a338396a36.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-10-sinif-felsefe-sb.exe</fileName><fileSize>266302176</fileSize><imageSize>22999</imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/669a6f85df509.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-11-sinif-felsefe-sb.exe</fileName><fileSize>298853088</fileSize><imageSize>23153</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/669e5eb35c379.felsefe</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-10-sinif-felsefe-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/669e5e9836014.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-11-sinif-felsefe-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/6690c841c769b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-felsefe-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/65313ea5e4d9c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-felsefe-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

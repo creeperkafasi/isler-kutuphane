@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-07-24 10:39:37</uDate>
+<uDate>2024-07-25 11:53:23</uDate>
 <libraryId>16</libraryId>
 </oSettings>
 <categories>
@@ -33,6 +33,7 @@
 <aCategory><cId>271</cId><cName>Hız ve renk</cName></aCategory>
 <aCategory><cId>585</cId><cName>ENS YAYINLARI 2020</cName></aCategory>
 <aCategory><cId>92</cId><cName>Mrkz Yayınları</cName></aCategory>
+<aCategory><cId>865</cId><cName>ORBİTAL 2025</cName></aCategory>
 </categories><pics><pic><fas>false</fas><cId>92</cId><source>http://yeni.isleronline.com/uploads/zkitap/5d4325dd2207e.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2500.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>92</cId><source>http://yeni.isleronline.com/uploads/zkitap/5d39e7e319adb.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2484.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>92</cId><source>http://yeni.isleronline.com/uploads/zkitap/5d4325dd12948.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/2497.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
@@ -654,6 +655,7 @@
 <pic><fas>false</fas><cId>854</cId><source>http://yeni.isleronline.com/uploads/zkitap/6690c841c3212.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-11-sinif-kimya-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>854</cId><source>http://yeni.isleronline.com/uploads/zkitap/6698eb14dba76.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-kimya-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>854</cId><source>http://yeni.isleronline.com/uploads/zkitap/669e39d2e05aa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-ayt-kimya-sb.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>862</cId><source>http://yeni.isleronline.com/uploads/zkitap/669916d23ef5d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2024-10-sinif-kimya-modul-1.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers></pic>
 <pic><cId>862</cId><source>http://yeni.isleronline.com/uploads/set/669a3b743d637.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>62767</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>862</cId><source>http://yeni.isleronline.com/uploads/zkitap/669916d23ef5d.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2024-10-sinif-kimya-modul-1.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>669a3b743d637.png</fas></pic>
 <pic><cId>862</cId><source>http://yeni.isleronline.com/uploads/zkitap/669916d251282.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/orbital-2024-10-sinif-kimya-modul-2.exe</fileName><fileSize></fileSize><imageSize></imageSize><vers>v_1</vers><fas>669a3b743d637.png</fas></pic>

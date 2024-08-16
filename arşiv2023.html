@@ -62,7 +62,7 @@
     <div class="about">
         <blockquote>
             Bu sayfa, <a href='..'>https://deniz.is-a.dev/isler-kutuphane</a>
-            adresindeki sitemizin veri tabanının <div style="display: inline-block;">27 Temmuz 2024</div> tarihinde
+            adresindeki sitemizin veri tabanının <div style="display: inline-block;">9 Ağustos 2023</div> tarihinde
             kaydedilen bir arşivini kullanmaktadır.
             Sayfada bulunan linkler güncel olmayabilir.
         </blockquote>
@@ -81,7 +81,7 @@
 
         async function loadLibrary(name) {
             let booksXML =
-                await fetch(`https://raw.githubusercontent.com/creeperkafasi/isler-kutuphane/27-07-2024/lists/${name}.xml`).then(res => res.text()
+                await fetch(`https://raw.githubusercontent.com/creeperkafasi/isler-kutuphane/2022-2023-son-ar%C5%9Fiv/lists/${name}.xml`).then(res => res.text()
                     .then(str => new window.DOMParser().parseFromString(str.trim(), "text/xml")));
 
             document.querySelector(".categories").innerHTML = "";

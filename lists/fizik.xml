@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-09-08 11:47:47</uDate>
+<uDate>2024-09-09 08:14:02</uDate>
 <libraryId>2</libraryId>
 </oSettings>
 <categories>
@@ -28,7 +28,7 @@
 <aCategory><cId>685</cId><cName>ÇAP YAYINLARI 2021-2022</cName></aCategory>
 <aCategory><cId>645</cId><cName>ÇAP YAYINLARI 2020-2021</cName></aCategory>
 <aCategory><cId>8</cId><cName>ÇAP</cName></aCategory>
-<aCategory><cId>874</cId><cName>MİKRO ORİJİNAL YAYINLARI 2024-2025</cName></aCategory>
+<aCategory><cId>884</cId><cName>NEOFİZİK YAYINLARI 2024-2025</cName></aCategory>
 <aCategory><cId>706</cId><cName>VAF YAYINLARI</cName></aCategory>
 <aCategory><cId>587</cId><cName>ENS YAYINLARI 2020</cName></aCategory>
 <aCategory><cId>718</cId><cName>EGZERSİZ YAYINLARI</cName></aCategory>
@@ -36,6 +36,7 @@
 <aCategory><cId>659</cId><cName>HIZ VE RENK 2020-2021</cName></aCategory>
 <aCategory><cId>248</cId><cName>Hız ve renk</cName></aCategory>
 <aCategory><cId>12</cId><cName>Mrkz Yayınları</cName></aCategory>
+<aCategory><cId>883</cId><cName>Mikro Orjinal Yayınları 2024-2025</cName></aCategory>
 </categories><pics><pic><cId>8</cId><source>http://yeni.isleronline.com/uploads/set/5e5f88e3ee4fc.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>89887</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>8</cId><source>http://yeni.isleronline.com/uploads/set/5e5f88778eace.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>91157</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>8</cId><source>http://yeni.isleronline.com/uploads/set/5e5f88ad20425.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>92097</imageSize><vers>v_1</vers><fas>false</fas></pic>
@@ -112,9 +113,10 @@
 <pic><cId>790</cId><source>http://yeni.isleronline.com/uploads/set/64fc2d8274eb5.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>81589</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>832</cId><source>http://yeni.isleronline.com/uploads/set/6593b55b49d34.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>118831</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>832</cId><source>http://yeni.isleronline.com/uploads/set/65d2fe0657da6.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>66355</imageSize><vers>v_1</vers><fas>false</fas></pic>
-<pic><cId>874</cId><source>http://yeni.isleronline.com/uploads/set/66dd649ae1ae7.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>68115</imageSize><vers>v_1</vers><fas>false</fas></pic>
-<pic><cId>874</cId><source>http://yeni.isleronline.com/uploads/set/66d07541b817d.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>69627</imageSize><vers>v_1</vers><fas>false</fas></pic>
-<pic><cId>874</cId><source>http://yeni.isleronline.com/uploads/set/66d0759c49b2b.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>70719</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>881</cId><source>http://yeni.isleronline.com/uploads/set/66dd203318f1f.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>79576</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>883</cId><source>http://yeni.isleronline.com/uploads/set/66ddc0d2ed771.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>67219</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>883</cId><source>http://yeni.isleronline.com/uploads/set/66dd649ae1ae7.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>68115</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>883</cId><source>http://yeni.isleronline.com/uploads/set/66d07541b817d.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>69627</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>883</cId><source>http://yeni.isleronline.com/uploads/set/66d0759c49b2b.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>70719</imageSize><vers>v_1</vers><fas>false</fas></pic>
 </pics>
 </data>

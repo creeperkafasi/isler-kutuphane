@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-09-08 08:06:38</uDate>
+<uDate>2024-09-09 08:14:02</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -17,6 +17,7 @@
 <aCategory><cId>784</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
 <aCategory><cId>742</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>677</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
+<aCategory><cId>885</cId><cName>ÇAP YAYINLARI 2024-2025</cName></aCategory>
 <aCategory><cId>836</cId><cName>ÇAP YAYINLARI 2023-2024 </cName></aCategory>
 <aCategory><cId>739</cId><cName>ÇAP YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>688</cId><cName>ÇAP 2021-2022</cName></aCategory>
@@ -80,5 +81,6 @@
 <pic><cId>807</cId><source>http://yeni.isleronline.com/uploads/set/6593bc2d9bf77.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>63448</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>807</cId><source>http://yeni.isleronline.com/uploads/set/6593b55b49d34.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>118831</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>836</cId><source>http://yeni.isleronline.com/uploads/set/6572b9b6694fa.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>94175</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>885</cId><source>http://yeni.isleronline.com/uploads/set/66ddb59c03feb.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>73585</imageSize><vers>v_1</vers><fas>false</fas></pic>
 </pics>
 </data>

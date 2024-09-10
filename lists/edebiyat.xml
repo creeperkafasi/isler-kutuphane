@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-09-09 08:14:02</uDate>
+<uDate>2024-09-10 10:30:00</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -81,6 +81,12 @@
 <pic><cId>807</cId><source>http://yeni.isleronline.com/uploads/set/6593bc2d9bf77.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>63448</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>807</cId><source>http://yeni.isleronline.com/uploads/set/6593b55b49d34.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>118831</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>836</cId><source>http://yeni.isleronline.com/uploads/set/6572b9b6694fa.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>94175</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>836</cId><source>http://yeni.isleronline.com/uploads/set/66defaf1d2ce8.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>95870</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>836</cId><source>http://yeni.isleronline.com/uploads/set/66df01b309b76.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>90395</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>836</cId><source>http://yeni.isleronline.com/uploads/set/632d7618d0a5b.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>64991</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>885</cId><source>http://yeni.isleronline.com/uploads/set/66ddb59c03feb.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>73585</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>885</cId><source>http://yeni.isleronline.com/uploads/set/66defaf1d2ce8.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>95870</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>885</cId><source>http://yeni.isleronline.com/uploads/set/66df01b309b76.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>90395</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>885</cId><source>http://yeni.isleronline.com/uploads/set/632d7618d0a5b.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>64991</imageSize><vers>v_1</vers><fas>false</fas></pic>
 </pics>
 </data>

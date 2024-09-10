@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-09-09 08:14:02</uDate>
+<uDate>2024-09-10 10:30:00</uDate>
 <libraryId>16</libraryId>
 </oSettings>
 <categories>
@@ -20,6 +20,7 @@
 <aCategory><cId>744</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>680</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
 <aCategory><cId>669</cId><cName>PES</cName></aCategory>
+<aCategory><cId>886</cId><cName>ÇAP YAYINLARI 2024-2025</cName></aCategory>
 <aCategory><cId>797</cId><cName>ÇAP YAYINLARI 2023-2024</cName></aCategory>
 <aCategory><cId>734</cId><cName>ÇAP YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>689</cId><cName>çap yayınları 2021-2022</cName></aCategory>
@@ -110,5 +111,12 @@
 <pic><cId>862</cId><source>http://yeni.isleronline.com/uploads/set/669a39db1556f.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>61057</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>862</cId><source>http://yeni.isleronline.com/uploads/set/669a3af5d708a.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>62509</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>862</cId><source>http://yeni.isleronline.com/uploads/set/669a3a68130ab.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>63418</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>886</cId><source>http://yeni.isleronline.com/uploads/set/64fc35e3d859b.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>92136</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>886</cId><source>http://yeni.isleronline.com/uploads/set/64fc381761ba7.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>89298</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>886</cId><source>http://yeni.isleronline.com/uploads/set/6501a37f463e1.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>84803</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>886</cId><source>http://yeni.isleronline.com/uploads/set/64fc3237236e2.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>89916</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>886</cId><source>http://yeni.isleronline.com/uploads/set/650c2bfe6ad93.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>81645</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>886</cId><source>http://yeni.isleronline.com/uploads/set/651ffa3d468b1.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>79610</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>886</cId><source>http://yeni.isleronline.com/uploads/set/653cc44d808d2.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>96832</imageSize><vers>v_1</vers><fas>false</fas></pic>
 </pics>
 </data>

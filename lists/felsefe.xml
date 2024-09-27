@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-09-26 11:14:59</uDate>
+<uDate>2024-09-27 09:24:28</uDate>
 <libraryId>20</libraryId>
 </oSettings>
 <categories>
@@ -15,6 +15,7 @@
 <aCategory><cId>789</cId><cName>BİLGİ SARMAL 2023-2024</cName></aCategory>
 <aCategory><cId>748</cId><cName>BİLGİ SARMAL 2022-2023</cName></aCategory>
 <aCategory><cId>676</cId><cName>BİLGİ SARMAL 2021-2022</cName></aCategory>
+<aCategory><cId>893</cId><cName>ÇAP YAYINLARI 2024-2025</cName></aCategory>
 <aCategory><cId>761</cId><cName>ÇAP YAYINLARI 2022-2023</cName></aCategory>
 <aCategory><cId>474</cId><cName>Çap yayınları</cName></aCategory>
 <aCategory><cId>711</cId><cName>VAF YAYINLARI</cName></aCategory>
@@ -209,5 +210,9 @@
 <pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/669e5e9836014.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-11-sinif-felsefe-sb.exe</fileName><fileSize>56528168</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/6690c841c769b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-felsefe-sb.exe</fileName><fileSize>56532792</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>857</cId><source>http://yeni.isleronline.com/uploads/zkitap/65313ea5e4d9c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-felsefe-sb.exe</fileName><fileSize>60072216</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>893</cId><source>http://yeni.isleronline.com/uploads/zkitap/63314a82a596b.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-10-sinif-felsefe-sb.exe</fileName><fileSize>54601480</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>893</cId><source>http://yeni.isleronline.com/uploads/zkitap/6335b2bd6de8c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-11-sinif-felsefe-sb.exe</fileName><fileSize>54719088</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>893</cId><source>http://yeni.isleronline.com/uploads/zkitap/6335b382e7faa.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-tyt-felsefe-sb.exe</fileName><fileSize>68892440</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>893</cId><source>http://yeni.isleronline.com/uploads/zkitap/6335b38274e27.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/cap-2022-ayt-felsefe-sb.exe</fileName><fileSize>64862936</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

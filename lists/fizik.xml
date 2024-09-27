@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-09-26 11:14:59</uDate>
+<uDate>2024-09-27 09:24:28</uDate>
 <libraryId>2</libraryId>
 </oSettings>
 <categories>
@@ -753,6 +753,8 @@
 <pic><cId>883</cId><source>http://yeni.isleronline.com/uploads/zkitap/66cf4ce244176.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/mikro-orijinal-2024-12-sinif-fizik-fasikul-2.exe</fileName><fileSize>55290624</fileSize><imageSize>4096</imageSize><vers>v_1</vers><fas>66d0759c49b2b.png</fas></pic>
 <pic><cId>883</cId><source>http://yeni.isleronline.com/uploads/zkitap/66cf4ce24441c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/mikro-orijinal-2024-12-sinif-fizik-fasikul-3.exe</fileName><fileSize>54802840</fileSize><imageSize>4096</imageSize><vers>v_1</vers><fas>66d0759c49b2b.png</fas></pic>
 <pic><fas>false</fas><cId>884</cId><source>http://yeni.isleronline.com/uploads/zkitap/66dd94983973f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/neofizik-2024-tyt-sb.exe</fileName><fileSize>59954440</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
+<pic><cId>889</cId><source>http://yeni.isleronline.com/uploads/set/66f5531d81d5c.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>42796</imageSize><vers>v_1</vers><fas>false</fas></pic>
+<pic><cId>889</cId><source>http://yeni.isleronline.com/uploads/zkitap/66e91b14a8a82.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/fizipedia-2024-9-sinif-fizik-dergi-3.exe</fileName><fileSize>66917960</fileSize><imageSize>4096</imageSize><vers>v_1</vers><fas>66f5531d81d5c.png</fas></pic>
 <pic><fas>false</fas><cId>889</cId><source>http://yeni.isleronline.com/uploads/zkitap/66e14a2a7ce9c.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/fizipedia-2024-tyt-fizik-sb.exe</fileName><fileSize>64346264</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 </pics>
 </data>

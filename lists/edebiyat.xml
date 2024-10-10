@@ -5,7 +5,7 @@
 <rSpace>10</rSpace>
 <url>www.isleronline.com</url>
 <publisher>zkitap</publisher>
-<uDate>2024-10-09 11:17:11</uDate>
+<uDate>2024-10-09 13:50:51</uDate>
 <libraryId>14</libraryId>
 </oSettings>
 <categories>
@@ -518,7 +518,7 @@
 <pic><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/65361d759159f.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-turkce-deneme-19.exe</fileName><fileSize>50040840</fileSize><imageSize>4096</imageSize><vers>v_1</vers><fas>65378a1539e03.png</fas></pic>
 <pic><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/65361d75d38b8.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-tyt-turkce-deneme-20.exe</fileName><fileSize>50022760</fileSize><imageSize>4096</imageSize><vers>v_1</vers><fas>65378a1539e03.png</fas></pic>
 <pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/661cd3365fcba.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-ayt-edebiyat-brans-denemeleri.exe</fileName><fileSize>53893520</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
-<pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/65b2375252c97.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-yildizlar-yarisiyor-edebiyat-sosyal-bilimler-brans-ds.exe</fileName><fileSize>54026624</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/6706600b6ffed.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-yildizlar-yarisiyor-edebiyat-sosyal-bilimler-brans-ds.exe</fileName><fileSize>54026624</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><cId>784</cId><source>http://yeni.isleronline.com/uploads/set/641e8ddf7f184.png</source><scale>135,189</scale><fileName>false</fileName><fileSize>0</fileSize><imageSize>115887</imageSize><vers>v_1</vers><fas>false</fas></pic>
 <pic><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/641c41facdbcf.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-esit-agirlik-tam-tekrar-1.exe</fileName><fileSize>53181824</fileSize><imageSize>4096</imageSize><vers>v_1</vers><fas>641e8ddf7f184.png</fas></pic>
 <pic><cId>784</cId><source>http://yeni.isleronline.com/uploads/zkitap/641c41fb70b81.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2022-ayt-kamp-esit-agirlik-tam-tekrar-2.exe</fileName><fileSize>53142272</fileSize><imageSize>4096</imageSize><vers>v_1</vers><fas>641e8ddf7f184.png</fas></pic>
@@ -599,6 +599,7 @@
 <pic><fas>false</fas><cId>859</cId><source>http://yeni.isleronline.com/uploads/zkitap/669e1ce2d4878.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-ayt-edebiyat-sb.exe</fileName><fileSize>72743192</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>859</cId><source>http://yeni.isleronline.com/uploads/zkitap/669f6a6502f96.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2024-tyt-ayt-paragraf-sb.exe</fileName><fileSize>64505584</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>859</cId><source>http://yeni.isleronline.com/uploads/zkitap/65e1ec1018ddb.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-yildizlar-yarisiyor-tyt-turkce-12-deneme.exe</fileName><fileSize>54807528</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
+<pic><fas>false</fas><cId>859</cId><source>http://yeni.isleronline.com/uploads/zkitap/6706600b6ffed.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/bs-2023-yildizlar-yarisiyor-edebiyat-sosyal-bilimler-brans-ds.exe</fileName><fileSize>54026624</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>864</cId><source>http://yeni.isleronline.com/uploads/zkitap/66cb31ea4d661.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/ed-2024-ayt-edebiyat-sb.exe</fileName><fileSize>53793112</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>864</cId><source>http://yeni.isleronline.com/uploads/zkitap/66a0afb6793f8.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/ed-2024-tyt-ayt-paragraf-sb.exe</fileName><fileSize>53920064</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
 <pic><fas>false</fas><cId>872</cId><source>http://yeni.isleronline.com/uploads/zkitap/66cb30915c702.png</source><scale>135,189</scale><fileName>http://islerkitap.frns.in/aromat-2024-ayt-edebiyat-net-30.exe</fileName><fileSize>53582696</fileSize><imageSize>4096</imageSize><vers>v_1</vers></pic>
